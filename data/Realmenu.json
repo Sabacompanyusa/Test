@@ -1,0 +1,890 @@
+{
+“categories”: [
+{
+“id”: “basic-hydration”,
+“name”: “Basic Hydration”,
+“description”: “Essential hydration therapy with electrolyte replenishment”,
+“icon”: “💧”,
+“order”: 1,
+“services”: [
+{
+“id”: “basic-hydrate-500ml”,
+“menuCode”: “021”,
+“name”: “Basic Rehydrate IV Bag (500mL)”,
+“price”: 99,
+“originalPrice”: 120,
+“duration”: “30 minutes”,
+“volume”: “500mL”,
+“description”: “Quick hydration paired with essential vitamins. Ideal after travel, workouts, or heat exposure.”,
+“benefits”: [
+“Rapid rehydration”,
+“Essential vitamin replenishment”,
+“Quick recovery”,
+“Electrolyte balance”
+],
+“ingredients”: [
+{
+“name”: “Sodium Chloride 0.9% (Saline)”,
+“amount”: “500mL”,
+“purpose”: “Core hydration and electrolyte balance”
+},
+{
+“name”: “Vitamin B Complex”,
+“purpose”: “Energy metabolism and nervous system support”
+}
+],
+“bestFor”: [“Dehydration”, “Post-workout recovery”, “Travel fatigue”, “Heat exposure”],
+“popular”: false
+},
+{
+“id”: “basic-hydrate-1000ml”,
+“menuCode”: “023”,
+“name”: “Basic Rehydrate IV Bag 2.0 (1000mL)”,
+“price”: 114,
+“originalPrice”: 140,
+“duration”: “45 minutes”,
+“volume”: “1000mL”,
+“description”: “Full liter of hydration plus vitamins for enhanced recovery and energy support.”,
+“benefits”: [
+“Deep hydration”,
+“Enhanced energy support”,
+“Complete vitamin replenishment”,
+“Extended recovery benefits”
+],
+“ingredients”: [
+{
+“name”: “Sodium Chloride 0.9% (Saline)”,
+“amount”: “1000mL”,
+“purpose”: “Complete hydration foundation”
+},
+{
+“name”: “Vitamin B Complex”,
+“purpose”: “Comprehensive energy and nervous system support”
+}
+],
+“bestFor”: [“Severe dehydration”, “Athletic recovery”, “Extended illness recovery”],
+“popular”: true
+},
+{
+“id”: “basic-hydrate-lr-1000ml”,
+“menuCode”: “025”,
+“name”: “Basic Rehydrate IV Bag 3.0 (Lactated Ringer 1000mL)”,
+“price”: 119,
+“originalPrice”: 145,
+“duration”: “45 minutes”,
+“volume”: “1000mL”,
+“description”: “Advanced hydration with Lactated Ringer’s solution plus essential vitamins. Perfect for athletic recovery.”,
+“benefits”: [
+“Advanced electrolyte balance”,
+“Enhanced cellular hydration”,
+“Athletic-grade recovery”,
+“Optimal pH balance”
+],
+“ingredients”: [
+{
+“name”: “Lactated Ringer”,
+“amount”: “1000mL”,
+“purpose”: “Advanced electrolyte and pH balance”
+},
+{
+“name”: “Vitamin B Complex”,
+“purpose”: “Energy metabolism and recovery support”
+}
+],
+“bestFor”: [“Athletic recovery”, “Intense physical activity”, “Heat exhaustion”, “Surgical recovery”],
+“popular”: false
+}
+]
+},
+{
+“id”: “standard-treatments”,
+“name”: “Standard Treatments”,
+“description”: “Comprehensive IV therapy treatments for wellness and recovery”,
+“icon”: “⚡”,
+“order”: 2,
+“services”: [
+{
+“id”: “jr-myers-cocktail”,
+“menuCode”: “003”,
+“name”: “Jr Myers’ Cocktail IV Bag”,
+“price”: 184,
+“originalPrice”: 220,
+“duration”: “35 minutes”,
+“volume”: “500mL”,
+“description”: “A lighter version of the Myers’ Cocktail IV for quick recovery and gentle hydration support.”,
+“benefits”: [
+“Gentle immune support”,
+“Quick energy boost”,
+“Antioxidant protection”,
+“Stress relief”
+],
+“ingredients”: [
+{
+“name”: “Sodium Chloride 0.9% IV Solution”,
+“amount”: “500mL”,
+“purpose”: “Hydration base”
+},
+{
+“name”: “Vitamin C”,
+“purpose”: “Immune support and antioxidant protection”
+},
+{
+“name”: “Vitamin B Complex”,
+“purpose”: “Energy metabolism”
+},
+{
+“name”: “Glutathione”,
+“purpose”: “Master antioxidant and detoxification”
+}
+],
+“bestFor”: [“First-time IV therapy”, “Mild fatigue”, “Immune support”, “Gentle wellness boost”],
+“popular”: false
+},
+{
+“id”: “myers-cocktail”,
+“menuCode”: “001”,
+“name”: “Myers’ Cocktail IV Bag”,
+“price”: 204,
+“originalPrice”: 250,
+“duration”: “45 minutes”,
+“volume”: “1000mL”,
+“description”: “The original gold-standard IV blend for immune boosting, energy, and full-body wellness.”,
+“benefits”: [
+“Enhanced immune function”,
+“Increased energy levels”,
+“Improved mood and mental clarity”,
+“Overall wellness optimization”,
+“Stress reduction”
+],
+“ingredients”: [
+{
+“name”: “Sodium Chloride 0.9% IV Solution”,
+“amount”: “1000mL”,
+“purpose”: “Hydration foundation”
+},
+{
+“name”: “Vitamin B-12”,
+“purpose”: “Energy production and neurological function”
+},
+{
+“name”: “Zinc Sulfate”,
+“purpose”: “Immune support and healing”
+},
+{
+“name”: “Magnesium Chloride”,
+“purpose”: “Muscle and nerve function”
+},
+{
+“name”: “Glutathione”,
+“purpose”: “Master antioxidant protection”
+},
+{
+“name”: “Vitamin C”,
+“purpose”: “Immune boost and collagen synthesis”
+},
+{
+“name”: “Vitamin B-Complex”,
+“purpose”: “Complete energy metabolism support”
+}
+],
+“bestFor”: [“General wellness”, “Immune support”, “Energy enhancement”, “Stress management”],
+“popular”: true
+},
+{
+“id”: “mega-myers-cocktail”,
+“menuCode”: “002”,
+“name”: “Mega Myers’ Cocktail IV Bag”,
+“price”: 234,
+“originalPrice”: 280,
+“duration”: “60 minutes”,
+“volume”: “1000mL”,
+“description”: “Double the strength of the original Myers’ Cocktail for enhanced energy, immunity, and recovery.”,
+“benefits”: [
+“Maximum immune support”,
+“Peak energy enhancement”,
+“Superior antioxidant protection”,
+“Enhanced recovery”,
+“Stress resilience”
+],
+“ingredients”: [
+{
+“name”: “Sodium Chloride 0.9% IV Solution”,
+“amount”: “1000mL”,
+“purpose”: “Hydration foundation”
+},
+{
+“name”: “Vitamin B-12”,
+“purpose”: “Energy and nerve function”
+},
+{
+“name”: “Zinc Sulfate”,
+“purpose”: “Immune and healing support”
+},
+{
+“name”: “Magnesium Chloride”,
+“purpose”: “Muscle and nerve optimization”
+},
+{
+“name”: “Glutathione”,
+“amount”: “2x Dose”,
+“purpose”: “Maximum antioxidant protection”
+},
+{
+“name”: “Vitamin C”,
+“amount”: “2x Dose”,
+“purpose”: “Enhanced immune and collagen support”
+},
+{
+“name”: “Vitamin B-Complex”,
+“purpose”: “Complete energy system support”
+}
+],
+“bestFor”: [“High stress periods”, “Illness recovery”, “Peak performance needs”, “Intensive wellness”],
+“popular”: true
+},
+{
+“id”: “hangover-recovery”,
+“menuCode”: “004”,
+“name”: “"Day After Scottsdale" Hangover Recovery IV Bag”,
+“price”: 204,
+“originalPrice”: 250,
+“duration”: “45 minutes”,
+“volume”: “1000mL”,
+“description”: “Rapid hangover recovery with hydration, anti-nausea, and headache relief to feel human again.”,
+“benefits”: [
+“Rapid rehydration”,
+“Nausea elimination”,
+“Headache relief”,
+“Energy restoration”,
+“Liver support”
+],
+“ingredients”: [
+{
+“name”: “Sodium Chloride 0.9% IV Solution”,
+“amount”: “1000mL”,
+“purpose”: “Rehydration and electrolyte restoration”
+},
+{
+“name”: “Vitamin B Complex”,
+“purpose”: “Metabolic restoration and energy”
+},
+{
+“name”: “Vitamin B-12”,
+“purpose”: “Energy production and nerve support”
+},
+{
+“name”: “Ondansetron HCl (Anti-Nausea)”,
+“purpose”: “Rapid nausea and vomiting relief”
+}
+],
+“bestFor”: [“Hangover recovery”, “Nausea relief”, “Dehydration”, “Party aftermath”],
+“popular”: true
+},
+{
+“id”: “stress-relief”,
+“menuCode”: “011”,
+“name”: “Stress Relief IV Bag”,
+“price”: 179,
+“originalPrice”: 220,
+“duration”: “45 minutes”,
+“volume”: “1000mL”,
+“description”: “Calm your mind and body with a powerful hydration blend designed to ease tension and promote relaxation.”,
+“benefits”: [
+“Stress reduction”,
+“Mental calmness”,
+“Muscle relaxation”,
+“Improved sleep quality”,
+“Nervous system support”
+],
+“ingredients”: [
+{
+“name”: “Sodium Chloride 0.9% IV Solution”,
+“amount”: “1000mL”,
+“purpose”: “Hydration foundation”
+},
+{
+“name”: “Magnesium Chloride”,
+“purpose”: “Muscle relaxation and stress relief”
+},
+{
+“name”: “Vitamin B-12”,
+“purpose”: “Nervous system support”
+},
+{
+“name”: “Vitamin C”,
+“purpose”: “Stress hormone regulation”
+},
+{
+“name”: “Thiamine HCL”,
+“purpose”: “Nervous system function”
+},
+{
+“name”: “Vitamin D3”,
+“purpose”: “Mood regulation and immune support”
+}
+],
+“bestFor”: [“High stress”, “Anxiety”, “Insomnia”, “Mental fatigue”, “Work pressure”],
+“popular”: false
+},
+{
+“id”: “mental-clarity”,
+“menuCode”: “012”,
+“name”: “Mental Clarity IV Bag”,
+“price”: 179,
+“originalPrice”: 220,
+“duration”: “45 minutes”,
+“volume”: “1000mL”,
+“description”: “Sharpen focus, improve memory, and enhance mental performance with a targeted IV blend.”,
+“benefits”: [
+“Enhanced focus”,
+“Improved memory”,
+“Mental clarity”,
+“Cognitive performance”,
+“Brain health support”
+],
+“ingredients”: [
+{
+“name”: “Sodium Chloride 0.9% IV Solution”,
+“amount”: “1000mL”,
+“purpose”: “Hydration for optimal brain function”
+},
+{
+“name”: “Magnesium Chloride”,
+“purpose”: “Neurotransmitter function”
+},
+{
+“name”: “Thiamine HCL”,
+“purpose”: “Brain energy metabolism”
+},
+{
+“name”: “Vitamin B-12”,
+“purpose”: “Cognitive function and memory”
+},
+{
+“name”: “Glutathione”,
+“purpose”: “Brain antioxidant protection”
+}
+],
+“bestFor”: [“Mental fog”, “Study enhancement”, “Work performance”, “Memory issues”, “Focus problems”],
+“popular”: false
+},
+{
+“id”: “anti-inflammatory”,
+“menuCode”: “013”,
+“name”: “Anti-Inflammatory IV Bag”,
+“price”: 179,
+“originalPrice”: 220,
+“duration”: “45 minutes”,
+“volume”: “1000mL”,
+“description”: “Fight inflammation naturally with a blend of antioxidants and hydration support.”,
+“benefits”: [
+“Reduced inflammation”,
+“Pain relief”,
+“Joint health support”,
+“Antioxidant protection”,
+“Healing acceleration”
+],
+“ingredients”: [
+{
+“name”: “Lactated Ringers IV Solution”,
+“amount”: “1000mL”,
+“purpose”: “Advanced hydration and electrolyte balance”
+},
+{
+“name”: “Calcium Gluconate”,
+“purpose”: “Bone and muscle health”
+},
+{
+“name”: “Vitamin B Complex”,
+“purpose”: “Cellular energy and repair”
+},
+{
+“name”: “Glutathione”,
+“purpose”: “Anti-inflammatory antioxidant”
+},
+{
+“name”: “Ketorolac Tromethamine”,
+“purpose”: “Anti-inflammatory and pain relief”
+},
+{
+“name”: “Vitamin C”,
+“purpose”: “Antioxidant and tissue repair”
+}
+],
+“bestFor”: [“Chronic inflammation”, “Joint pain”, “Sports injuries”, “Arthritis”, “Recovery support”],
+“popular”: false
+},
+{
+“id”: “weight-management”,
+“menuCode”: “019”,
+“name”: “Weight Management Support IV Bag”,
+“price”: 204,
+“originalPrice”: 250,
+“duration”: “45 minutes”,
+“volume”: “1000mL”,
+“description”: “Boost your metabolism naturally with MIC injections, carnitine, and hydration support.”,
+“benefits”: [
+“Metabolism boost”,
+“Fat burning support”,
+“Energy enhancement”,
+“Liver health”,
+“Weight loss support”
+],
+“ingredients”: [
+{
+“name”: “MIC (Methionine, Inositol, Choline)”,
+“purpose”: “Fat metabolism and liver support”
+},
+{
+“name”: “Vitamin B Complex”,
+“purpose”: “Energy metabolism”
+},
+{
+“name”: “L-Carnitine”,
+“purpose”: “Fat burning and energy production”
+}
+],
+“bestFor”: [“Weight loss goals”, “Metabolism boost”, “Energy support”, “Fitness enhancement”],
+“popular”: false
+}
+]
+},
+{
+“id”: “specialty-treatments”,
+“name”: “Specialty Treatments”,
+“description”: “Advanced IV therapies for specific wellness goals and performance optimization”,
+“icon”: “🎯”,
+“order”: 3,
+“services”: [
+{
+“id”: “d-book-athletic”,
+“menuCode”: “007”,
+“name”: “"D-Book" Athletic Performance Booster IV Bag”,
+“price”: 224,
+“originalPrice”: 270,
+“duration”: “60 minutes”,
+“volume”: “1000mL”,
+“description”: “Fuel your body like a pro with hydration, amino acids, and antioxidants to boost athletic output.”,
+“benefits”: [
+“Enhanced athletic performance”,
+“Improved endurance”,
+“Faster recovery”,
+“Muscle support”,
+“Energy optimization”
+],
+“ingredients”: [
+{
+“name”: “Sodium Chloride 0.9% IV Solution”,
+“amount”: “1000mL”,
+“purpose”: “Athletic hydration foundation”
+},
+{
+“name”: “Vitamin C”,
+“purpose”: “Antioxidant protection and recovery”
+},
+{
+“name”: “Amino Blend (Proline, Arginine, Lysine, Citrulline)”,
+“purpose”: “Muscle building and recovery”
+},
+{
+“name”: “Magnesium Chloride”,
+“purpose”: “Muscle function and recovery”
+},
+{
+“name”: “Glutathione”,
+“purpose”: “Exercise-induced oxidative stress relief”
+},
+{
+“name”: “L-Carnitine”,
+“purpose”: “Fat burning and energy production”
+},
+{
+“name”: “Vitamin B Complex”,
+“purpose”: “Energy metabolism optimization”
+}
+],
+“bestFor”: [“Athletic performance”, “Pre-competition”, “Training support”, “Endurance sports”],
+“popular”: true
+},
+{
+“id”: “diamondback-immune”,
+“menuCode”: “008”,
+“name”: “"Diamondback" Immune System Booster IV Bag”,
+“price”: 199,
+“originalPrice”: 240,
+“duration”: “45 minutes”,
+“volume”: “1000mL”,
+“description”: “Strengthen your immune defenses with a potent blend of Vitamin C, Zinc, and hydration support.”,
+“benefits”: [
+“Enhanced immune function”,
+“Illness prevention”,
+“Faster recovery from illness”,
+“Antioxidant protection”,
+“Cellular health support”
+],
+“ingredients”: [
+{
+“name”: “Lactated Ringers IV Solution”,
+“amount”: “1000mL”,
+“purpose”: “Advanced hydration and electrolyte support”
+},
+{
+“name”: “Vitamin C”,
+“purpose”: “High-dose immune support”
+},
+{
+“name”: “Zinc Sulfate”,
+“purpose”: “Immune function and healing”
+},
+{
+“name”: “Amino Blend (Proline, Arginine, Lysine, Citrulline)”,
+“purpose”: “Protein synthesis and immune support”
+}
+],
+“bestFor”: [“Cold/flu prevention”, “Immune support”, “Illness recovery”, “Seasonal wellness”],
+“popular”: true
+},
+{
+“id”: “scottsdale-10-beauty”,
+“menuCode”: “009”,
+“name”: “"Scottsdale 10" Beauty Boost IV Bag”,
+“price”: 229,
+“originalPrice”: 280,
+“duration”: “45 minutes”,
+“volume”: “1000mL”,
+“description”: “Glow from within. Deep hydration, biotin, glutathione, and Vitamin C to nourish hair, skin, and nails.”,
+“benefits”: [
+“Glowing skin”,
+“Stronger hair and nails”,
+“Anti-aging effects”,
+“Collagen production”,
+“Cellular rejuvenation”
+],
+“ingredients”: [
+{
+“name”: “Vitamin C”,
+“purpose”: “Collagen synthesis and skin health”
+},
+{
+“name”: “Vitamin B Complex”,
+“purpose”: “Cellular energy and metabolism”
+},
+{
+“name”: “Biotin”,
+“purpose”: “Hair, skin, and nail health”
+},
+{
+“name”: “Zinc Sulfate”,
+“purpose”: “Skin healing and repair”
+},
+{
+“name”: “Glutathione”,
+“purpose”: “Skin brightening and antioxidant protection”
+},
+{
+“name”: “Sodium Chloride 0.9% IV Solution”,
+“amount”: “1000mL”,
+“purpose”: “Hydration for skin health”
+}
+],
+“bestFor”: [“Skin health”, “Anti-aging”, “Hair/nail strength”, “Beauty enhancement”],
+“popular”: true
+},
+{
+“id”: “sun-devil-energy”,
+“menuCode”: “010”,
+“name”: “"Sun Devil" Energy Boost IV Bag”,
+“price”: 225,
+“originalPrice”: 270,
+“duration”: “45 minutes”,
+“volume”: “1000mL”,
+“description”: “Comprehensive energy enhancement with B-vitamins, amino acids, and antioxidants.”,
+“benefits”: [
+“Sustained energy boost”,
+“Mental clarity”,
+“Reduced fatigue”,
+“Enhanced focus”,
+“Metabolic support”
+],
+“ingredients”: [
+{
+“name”: “Sodium Chloride 0.9% IV Solution”,
+“amount”: “1000mL”,
+“purpose”: “Energy-supporting hydration”
+},
+{
+“name”: “Vitamin B-12”,
+“purpose”: “Energy production and metabolism”
+},
+{
+“name”: “Vitamin B Complex”,
+“purpose”: “Complete energy system support”
+},
+{
+“name”: “Alpha Lipoic Acid”,
+“purpose”: “Cellular energy and antioxidant”
+},
+{
+“name”: “L-Taurine”,
+“purpose”: “Energy and cardiovascular support”
+},
+{
+“name”: “Pyridoxine”,
+“purpose”: “Neurotransmitter and energy support”
+},
+{
+“name”: “Vitamin C”,
+“purpose”: “Antioxidant and energy support”
+}
+],
+“bestFor”: [“Energy enhancement”, “Mental performance”, “Fatigue relief”, “Productivity boost”],
+“popular”: false
+},
+{
+“id”: “arizona-detox”,
+“menuCode”: “008”,
+“name”: “"Arizona" Detox & Cleanse IV Bag”,
+“price”: 289,
+“originalPrice”: 350,
+“duration”: “60 minutes”,
+“volume”: “1000mL”,
+“description”: “Flush out toxins, support liver and kidney function, and reset your system with a powerful detox blend.”,
+“benefits”: [
+“Liver detoxification”,
+“Toxin elimination”,
+“Cellular cleansing”,
+“Metabolic reset”,
+“Enhanced energy”
+],
+“ingredients”: [
+{
+“name”: “Sodium Chloride 0.9% IV Solution”,
+“amount”: “1000mL”,
+“purpose”: “Detoxification support and hydration”
+},
+{
+“name”: “Vitamin C”,
+“purpose”: “Antioxidant and detox support”
+},
+{
+“name”: “Vitamin B Complex”,
+“purpose”: “Liver metabolism support”
+},
+{
+“name”: “Zinc Sulfate”,
+“purpose”: “Cellular repair and detox”
+},
+{
+“name”: “Glutathione”,
+“purpose”: “Master detoxifier and liver support”
+},
+{
+“name”: “Magnesium Chloride”,
+“purpose”: “Cellular function and detox support”
+}
+],
+“bestFor”: [“Detoxification”, “Liver support”, “System cleanse”, “Toxic exposure recovery”],
+“popular”: false
+}
+]
+},
+{
+“id”: “premium-treatments”,
+“name”: “Premium & Recovery”,
+“description”: “Elite-level treatments for ultimate wellness and recovery”,
+“icon”: “👑”,
+“order”: 4,
+“services”: [
+{
+“id”: “gold-ultimate-recovery”,
+“menuCode”: “006”,
+“name”: “"Gold" Ultimate Recovery IV Bag”,
+“price”: 299,
+“originalPrice”: 360,
+“duration”: “60 minutes”,
+“volume”: “1000mL”,
+“description”: “Elite-level recovery IV loaded with amino acids, antioxidants, vitamins, and hydration for athletes and performers.”,
+“benefits”: [
+“Elite-level recovery”,
+“Maximum antioxidant protection”,
+“Enhanced performance”,
+“Complete system restoration”,
+“Premium wellness optimization”
+],
+“ingredients”: [
+{
+“name”: “Lactated Ringers IV Solution”,
+“amount”: “1000mL”,
+“purpose”: “Advanced hydration and recovery”
+},
+{
+“name”: “Vitamin C”,
+“amount”: “2x Dose”,
+“purpose”: “Maximum antioxidant protection”
+},
+{
+“name”: “Vitamin B Complex”,
+“purpose”: “Complete energy system support”
+},
+{
+“name”: “Zinc Sulfate”,
+“purpose”: “Recovery and immune support”
+},
+{
+“name”: “Glutathione”,
+“amount”: “2x Dose”,
+“purpose”: “Elite antioxidant and detox support”
+},
+{
+“name”: “Vitamin B-12”,
+“purpose”: “Energy and neurological optimization”
+},
+{
+“name”: “Magnesium Chloride”,
+“purpose”: “Muscle and nerve recovery”
+}
+],
+“bestFor”: [“Elite athletes”, “High performers”, “Intensive recovery”, “Peak optimization”],
+“popular”: true
+},
+{
+“id”: “platinum-ultimate-hydration”,
+“menuCode”: “005”,
+“name”: “"Platinum" Ultimate Hydration IV Bag”,
+“price”: 349,
+“originalPrice”: 420,
+“duration”: “60 minutes”,
+“volume”: “1000mL”,
+“description”: “Maximum hydration, advanced vitamins, minerals, and antioxidants for peak performance and cellular health.”,
+“benefits”: [
+“Maximum hydration”,
+“Peak performance support”,
+“Advanced cellular health”,
+“Complete system optimization”,
+“Elite wellness enhancement”
+],
+“ingredients”: [
+{
+“name”: “Lactated Ringers IV Solution”,
+“amount”: “1000mL”,
+“purpose”: “Premium hydration foundation”
+},
+{
+“name”: “Vitamin C”,
+“purpose”: “Advanced antioxidant protection”
+},
+{
+“name”: “Vitamin B Complex”,
+“purpose”: “Complete energy metabolism”
+},
+{
+“name”: “Zinc Sulfate”,
+“purpose”: “Cellular repair and immune function”
+},
+{
+“name”: “Glutathione”,
+“purpose”: “Master antioxidant and detoxification”
+},
+{
+“name”: “Vitamin B-12”,
+“purpose”: “Energy and cognitive optimization”
+},
+{
+“name”: “Magnesium Chloride”,
+“purpose”: “Advanced cellular function”
+}
+],
+“bestFor”: [“Peak performance”, “Elite wellness”, “Maximum recovery”, “Cellular optimization”],
+“popular”: true
+},
+{
+“id”: “stay-dripped-special”,
+“menuCode”: “014”,
+“name”: “Stay Dripped Special IV Bag”,
+“price”: 324,
+“originalPrice”: 390,
+“duration”: “75 minutes”,
+“volume”: “1000mL”,
+“description”: “Our flagship IV bag — ultimate hydration, energy, immunity, and full-body optimization blend.”,
+“benefits”: [
+“Complete wellness optimization”,
+“Maximum energy enhancement”,
+“Supreme immune support”,
+“Elite recovery benefits”,
+“Comprehensive health support”
+],
+“ingredients”: [
+{
+“name”: “Lactated Ringers IV Solution”,
+“amount”: “1000mL”,
+“purpose”: “Premium hydration base”
+},
+{
+“name”: “Vitamin C”,
+“amount”: “2x Dose”,
+“purpose”: “Maximum antioxidant support”
+},
+{
+“name”: “Glutathione”,
+“amount”: “2x Dose”,
+“purpose”: “Elite detoxification and antioxidant”
+},
+{
+“name”: “Vitamin B Complex”,
+“purpose”: “Complete energy system”
+},
+{
+“name”: “Amino Blend (Proline, Arginine, Lysine, Citrulline)”,
+“purpose”: “Muscle and recovery support”
+},
+{
+“name”: “L-Carnitine”,
+“purpose”: “Fat metabolism and energy”
+},
+{
+“name”: “Alpha Lipoic Acid”,
+“purpose”: “Cellular energy and antioxidant”
+}
+],
+“bestFor”: [“Ultimate wellness”, “Peak performance”, “Complete optimization”, “Elite health”],
+“popular”: true
+},
+{
+“id”: “build-your-own”,
+“menuCode”: “020”,
+“name”: “Build Your Own IV Bag”,
+“price”: 230,
+“originalPrice”: 280,
+“duration”: “45-60 minutes”,
+“volume”: “1000mL”,
+“description”: “Customize your IV therapy with choice of base solution and 3 premium add-ins.”,
+“benefits”: [
+“Personalized treatment”,
+“Targeted therapy”,
+“Custom wellness goals”,
+“Flexible options”,
+“Tailored benefits”
+],
+“ingredients”: [
+{
+“name”: “Base Solution Choice”,
+“options”: [“Saline (Sodium Chloride 0.9%)”, “Lactated Ringer”],
+“purpose”: “Foundation hydration - your choice”
+},
+{
+“name”: “Add-In #1”,
+“options”: [“Vitamin C”, “B-Complex”, “B-12”, “Glutathione”, “Magnesium”, “Zinc”],
+“purpose”: “Your first custom addition”
+},
+{
+“name”: “Add-In #2”,
+“options”: [“Vitamin C”, “B-Complex”, “B-12”, “Glutathione”, “Magnesium”, “Zinc”],
+“purpose”: “Your second custom addition”
+},
+{
+“name”: “Add-In #3”,
+“options”: “Vitamin C”, “B-Complex”, “B-12”, “Glutathione”, “Magnesium”, “Zinc”],
+“purpose”: “Your third custom addition”
+},
+],
+}

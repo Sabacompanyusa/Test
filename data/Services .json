@@ -1,0 +1,1018 @@
+{
+“menu”: {
+“title”: “IV Therapy Treatment Menu”,
+“subtitle”: “Professional IV hydration and wellness treatments administered by licensed medical professionals”,
+“updated”: “2025-01-01”,
+“categories”: [
+{
+“id”: “basic-hydration”,
+“name”: “Basic Hydration”,
+“description”: “Essential hydration and vitamin support”,
+“treatments”: [
+{
+“id”: “023”,
+“name”: “Plain Saline 1000mL”,
+“code”: “023”,
+“price”: 125,
+“duration”: “30-45 minutes”,
+“description”: “Pure hydration with 1000mL of 0.9% sodium chloride solution”,
+“ingredients”: [“Sodium Chloride 0.9% IV Solution 1000mL”],
+“benefits”: [“Rapid rehydration”, “Electrolyte balance”, “Improved circulation”],
+“ideal_for”: [“Dehydration”, “Heat exhaustion”, “Pre/post exercise”]
+},
+{
+“id”: “021”,
+“name”: “Plain Saline 500mL”,
+“code”: “021”,
+“price”: 99,
+“duration”: “20-30 minutes”,
+“description”: “Quick hydration with 500mL of 0.9% sodium chloride solution”,
+“ingredients”: [“Sodium Chloride 0.9% IV Solution 500mL”],
+“benefits”: [“Quick hydration”, “Energy boost”, “Improved wellness”],
+“ideal_for”: [“Mild dehydration”, “Maintenance hydration”, “Quick refresh”]
+},
+{
+“id”: “022”,
+“name”: “Lactated Ringers 1000mL”,
+“code”: “022”,
+“price”: 135,
+“duration”: “30-45 minutes”,
+“description”: “Advanced hydration with electrolyte-balanced Lactated Ringer solution”,
+“ingredients”: [“Lactated Ringers IV Solution 1000mL”],
+“benefits”: [“Superior hydration”, “Electrolyte replacement”, “Faster recovery”],
+“ideal_for”: [“Athletic recovery”, “Intensive hydration”, “Post-workout recovery”]
+}
+]
+},
+{
+“id”: “myers-cocktails”,
+“name”: “Myers’ Cocktail Series”,
+“description”: “The gold standard of IV therapy with essential vitamins and minerals”,
+“treatments”: [
+{
+“id”: “003”,
+“name”: “Jr Myers’ Cocktail IV Bag”,
+“code”: “003”,
+“price”: 185,
+“duration”: “30-45 minutes”,
+“description”: “A lighter version of the Myers’ Cocktail, perfect for first-timers or gentle recharge”,
+“ingredients”: [
+“Sodium Chloride 0.9% IV Solution 500mL”,
+“Vitamin C”,
+“Vitamin B-Complex”,
+“Glutathione”
+],
+“benefits”: [“Gentle energy boost”, “Immune support”, “Antioxidant protection”],
+“ideal_for”: [“First-time patients”, “Maintenance therapy”, “Gentle wellness boost”]
+},
+{
+“id”: “001”,
+“name”: “Myers’ Cocktail IV Bag”,
+“code”: “001”,
+“price”: 205,
+“duration”: “30-45 minutes”,
+“description”: “The original gold standard of IV therapy with essential vitamins and minerals”,
+“ingredients”: [
+“Sodium Chloride 0.9% IV Solution 1000mL”,
+“Vitamin B-12”,
+“Zinc Sulfate”,
+“Magnesium Chloride”,
+“Glutathione”,
+“Vitamin C”,
+“Vitamin B-Complex”
+],
+“benefits”: [“Boosts immunity”, “Increases energy”, “Promotes wellness”, “Reduces fatigue”],
+“ideal_for”: [“General wellness”, “Immune support”, “Energy enhancement”, “Stress relief”]
+},
+{
+“id”: “002”,
+“name”: “Mega Myers’ Cocktail IV Bag”,
+“code”: “002”,
+“price”: 235,
+“duration”: “45-60 minutes”,
+“description”: “Enhanced Myers’ Cocktail with double-dose vitamins for maximum benefit”,
+“ingredients”: [
+“Sodium Chloride 0.9% IV Solution 1000mL”,
+“Vitamin B-12”,
+“Zinc Sulfate”,
+“Magnesium Chloride”,
+“Glutathione (2x Dose)”,
+“Vitamin C (2x Dose)”,
+“Vitamin B-Complex”
+],
+“benefits”: [“Maximum energy boost”, “Superior immune support”, “Enhanced recovery”],
+“ideal_for”: [“High stress periods”, “Intense training”, “Illness recovery”, “Maximum wellness”]
+}
+]
+},
+{
+“id”: “recovery-hydration”,
+“name”: “Recovery & Hydration”,
+“description”: “Specialized treatments for optimal recovery and hydration”,
+“treatments”: [
+{
+“id”: “004”,
+“name”: “Day After The Dale Hangover Relief”,
+“code”: “004”,
+“price”: 195,
+“duration”: “30-45 minutes”,
+“description”: “Fast hangover relief with anti-nausea medication and rapid rehydration”,
+“ingredients”: [
+“Sodium Chloride 0.9% IV Solution 1000mL”,
+“Vitamin B-Complex”,
+“Vitamin B-12”,
+“Ondansetron HCl (Anti-Nausea)”
+],
+“benefits”: [“Rapid rehydration”, “Nausea relief”, “Headache reduction”, “Energy restoration”],
+“ideal_for”: [“Hangover recovery”, “Nausea relief”, “Dehydration from alcohol”]
+},
+{
+“id”: “006”,
+“name”: “Gold Ultimate Hydration & Recovery”,
+“code”: “006”,
+“price”: 325,
+“duration”: “45-60 minutes”,
+“description”: “Premium hydration and recovery with Lactated Ringers and essential nutrients”,
+“ingredients”: [
+“Lactated Ringers IV Solution 1000mL”,
+“Vitamin C”,
+“Vitamin B-Complex”,
+“Ondansetron HCl (Anti-Nausea)”,
+“Glutathione”,
+“Vitamin B-12”,
+“Magnesium Chloride”
+],
+“benefits”: [“Maximum hydration”, “Complete recovery”, “Immune support”, “Energy restoration”],
+“ideal_for”: [“Athletic recovery”, “Illness recovery”, “Comprehensive wellness”]
+},
+{
+“id”: “005”,
+“name”: “Platinum Ultimate Hydration & Recovery”,
+“code”: “005”,
+“price”: 355,
+“duration”: “45-60 minutes”,
+“description”: “Our most comprehensive hydration and recovery treatment”,
+“ingredients”: [
+“Lactated Ringers IV Solution 1000mL”,
+“Vitamin C”,
+“Vitamin B-Complex”,
+“Zinc Sulfate”,
+“Glutathione”,
+“Vitamin B-12”,
+“Magnesium Chloride”
+],
+“benefits”: [“Ultimate hydration”, “Maximum recovery”, “Peak performance”, “Complete wellness”],
+“ideal_for”: [“Elite athletes”, “Maximum recovery needs”, “Premium wellness experience”]
+}
+]
+},
+{
+“id”: “performance-wellness”,
+“name”: “Performance & Wellness”,
+“description”: “Specialized treatments for athletic performance and targeted wellness”,
+“treatments”: [
+{
+“id”: “007”,
+“name”: “D-Book Athletic Performance Booster”,
+“code”: “007”,
+“price”: 215,
+“duration”: “45-60 minutes”,
+“description”: “Athletic performance optimization with amino acids and recovery nutrients”,
+“ingredients”: [
+“Sodium Chloride 0.9% IV Solution 1000mL”,
+“Vitamin C”,
+“Amino Blend (Proline, Arginine, Lysine, Citrulline)”,
+“Magnesium Chloride”,
+“Glutathione”,
+“L-Carnitine”,
+“Vitamin B-Complex”
+],
+“benefits”: [“Enhanced performance”, “Faster recovery”, “Improved endurance”, “Muscle support”],
+“ideal_for”: [“Athletes”, “Fitness enthusiasts”, “Pre/post workout”, “Competition preparation”]
+},
+{
+“id”: “008”,
+“name”: “Diamondback Immune System Booster”,
+“code”: “008”,
+“price”: 225,
+“duration”: “30-45 minutes”,
+“description”: “Powerful immune system support with high-dose Vitamin C and minerals”,
+“ingredients”: [
+“Lactated Ringers IV Solution 1000mL”,
+“Vitamin C (2x Dose)”,
+“Zinc Sulfate”,
+“Amino Blend (Proline, Arginine, Lysine, Citrulline)”
+],
+“benefits”: [“Immune system boost”, “Antioxidant protection”, “Illness prevention”, “Recovery support”],
+“ideal_for”: [“Illness prevention”, “Cold/flu season”, “Travel protection”, “Immune support”]
+},
+{
+“id”: “009”,
+“name”: “Arizona Detox and Cleanse”,
+“code”: “009”,
+“price”: 265,
+“duration”: “45-60 minutes”,
+“description”: “Comprehensive detoxification with glutathione and alpha lipoic acid”,
+“ingredients”: [
+“Sodium Chloride 0.9% IV Solution 1000mL”,
+“Vitamin C”,
+“Vitamin B-Complex”,
+“Zinc Sulfate”,
+“Glutathione”,
+“Magnesium Chloride”
+],
+“benefits”: [“Detoxification support”, “Liver health”, “Antioxidant boost”, “Cellular repair”],
+“ideal_for”: [“Detox programs”, “Liver support”, “Environmental toxin exposure”, “Wellness reset”]
+}
+]
+},
+{
+“id”: “beauty-energy”,
+“name”: “Beauty & Energy”,
+“description”: “Treatments focused on beauty enhancement and energy optimization”,
+“treatments”: [
+{
+“id”: “010”,
+“name”: “Scottsdale 10 Beauty IV Bag”,
+“code”: “010”,
+“price”: 245,
+“duration”: “30-45 minutes”,
+“description”: “Beauty enhancement with biotin, antioxidants, and skin-supporting nutrients”,
+“ingredients”: [
+“Vitamin C”,
+“Vitamin B-Complex”,
+“Biotin”,
+“Zinc Sulfate”,
+“Glutathione”,
+“Sodium Chloride 0.9% IV Solution 1000mL”
+],
+“benefits”: [“Skin health”, “Hair & nail strength”, “Antioxidant protection”, “Beauty enhancement”],
+“ideal_for”: [“Beauty enhancement”, “Skin health”, “Hair & nail support”, “Anti-aging”]
+},
+{
+“id”: “011”,
+“name”: “Sun Devil Energy Boost”,
+“code”: “011”,
+“price”: 225,
+“duration”: “30-45 minutes”,
+“description”: “Comprehensive energy enhancement with B-vitamins and metabolic boosters”,
+“ingredients”: [
+“Sodium Chloride 0.9% IV Solution 1000mL”,
+“Vitamin B-12”,
+“Vitamin B-Complex”,
+“Alpha Lipoic Acid”,
+“L-Taurine”,
+“Pyridoxine”,
+“Vitamin C”
+],
+“benefits”: [“Energy enhancement”, “Mental clarity”, “Metabolism boost”, “Fatigue reduction”],
+“ideal_for”: [“Energy deficiency”, “Mental fog”, “Metabolic support”, “Performance enhancement”]
+},
+{
+“id”: “012”,
+“name”: “Stress Relief IV Bag”,
+“code”: “012”,
+“price”: 215,
+“duration”: “30-45 minutes”,
+“description”: “Stress reduction and relaxation support with magnesium and B-vitamins”,
+“ingredients”: [
+“Sodium Chloride 0.9% IV Solution 1000mL”,
+“Magnesium Chloride”,
+“Vitamin B-12”,
+“Vitamin C”,
+“Thiamine HCL”,
+“Vitamin D3”
+],
+“benefits”: [“Stress reduction”, “Relaxation”, “Mood support”, “Sleep improvement”],
+“ideal_for”: [“Stress management”, “Anxiety relief”, “Sleep support”, “Relaxation”]
+},
+{
+“id”: “013”,
+“name”: “Mental Clarity IV Bag”,
+“code”: “013”,
+“price”: 225,
+“duration”: “30-45 minutes”,
+“description”: “Cognitive enhancement with brain-supporting nutrients and amino acids”,
+“ingredients”: [
+“Sodium Chloride 0.9% IV Solution 1000mL”,
+“Magnesium Chloride”,
+“Thiamine HCL”,
+“Vitamin B-12”,
+“Glutathione”
+],
+“benefits”: [“Mental clarity”, “Focus enhancement”, “Cognitive support”, “Brain health”],
+“ideal_for”: [“Mental fog”, “Focus issues”, “Cognitive enhancement”, “Brain health”]
+},
+{
+“id”: “014”,
+“name”: “Anti-Inflammatory IV Bag”,
+“code”: “014”,
+“price”: 235,
+“duration”: “30-45 minutes”,
+“description”: “Inflammation reduction with targeted nutrients and antioxidants”,
+“ingredients”: [
+“Lactated Ringers IV Solution 1000mL”,
+“Calcium Gluconate”,
+“Vitamin B-Complex”,
+“Glutathione”,
+“Ketorolac Tromethamine”,
+“Vitamin C”
+],
+“benefits”: [“Inflammation reduction”, “Pain relief”, “Recovery support”, “Antioxidant protection”],
+“ideal_for”: [“Inflammation”, “Pain management”, “Recovery”, “Athletic support”]
+}
+]
+},
+{
+“id”: “specialized-therapies”,
+“name”: “Specialized Therapies”,
+“description”: “Advanced treatments for specific wellness goals”,
+“treatments”: [
+{
+“id”: “015”,
+“name”: “Weight Management Support”,
+“code”: “015”,
+“price”: 245,
+“duration”: “30-45 minutes”,
+“description”: “Metabolic support for weight management goals with MIC and L-Carnitine”,
+“ingredients”: [
+“MIC (Methionine, Inositol, Choline)”,
+“Vitamin B-Complex”,
+“L-Carnitine”
+],
+“benefits”: [“Metabolism boost”, “Fat burning support”, “Energy enhancement”, “Weight management”],
+“ideal_for”: [“Weight loss goals”, “Metabolism support”, “Fitness programs”, “Body composition”]
+},
+{
+“id”: “016”,
+“name”: “Stay Dripped Special”,
+“code”: “016”,
+“price”: 345,
+“duration”: “60-90 minutes”,
+“description”: “Our signature comprehensive treatment with premium ingredients”,
+“ingredients”: [
+“Lactated Ringers IV Solution 1000mL”,
+“Vitamin C (2x Dose)”,
+“Glutathione (2x Dose)”,
+“Vitamin B-Complex”,
+“Amino Blend (Proline, Arginine, Lysine, Citrulline)”,
+“L-Carnitine”,
+“Alpha Lipoic Acid”
+],
+“benefits”: [“Comprehensive wellness”, “Maximum benefits”, “Premium experience”, “Complete support”],
+“ideal_for”: [“VIP experience”, “Maximum wellness”, “Special occasions”, “Complete optimization”]
+}
+]
+},
+{
+{
+“menu”: {
+“title”: “IV Therapy Treatment Menu”,
+“subtitle”: “Professional IV hydration and wellness treatments administered by licensed medical professionals”,
+“updated”: “2025-01-01”,
+“categories”: [
+{
+“id”: “basic-hydration”,
+“name”: “Basic Hydration”,
+“description”: “Essential hydration and vitamin support”,
+“treatments”: [
+{
+“id”: “023”,
+“name”: “Plain Saline 1000mL”,
+“code”: “023”,
+“price”: 125,
+“duration”: “30-45 minutes”,
+“description”: “Pure hydration with 1000mL of 0.9% sodium chloride solution”,
+“ingredients”: [“Sodium Chloride 0.9% IV Solution 1000mL”],
+“benefits”: [“Rapid rehydration”, “Electrolyte balance”, “Improved circulation”],
+“ideal_for”: [“Dehydration”, “Heat exhaustion”, “Pre/post exercise”]
+},
+{
+“id”: “021”,
+“name”: “Plain Saline 500mL”,
+“code”: “021”,
+“price”: 99,
+“duration”: “20-30 minutes”,
+“description”: “Quick hydration with 500mL of 0.9% sodium chloride solution”,
+“ingredients”: [“Sodium Chloride 0.9% IV Solution 500mL”],
+“benefits”: [“Quick hydration”, “Energy boost”, “Improved wellness”],
+“ideal_for”: [“Mild dehydration”, “Maintenance hydration”, “Quick refresh”]
+},
+{
+“id”: “022”,
+“name”: “Lactated Ringers 1000mL”,
+“code”: “022”,
+“price”: 135,
+“duration”: “30-45 minutes”,
+“description”: “Advanced hydration with electrolyte-balanced Lactated Ringer solution”,
+“ingredients”: [“Lactated Ringers IV Solution 1000mL”],
+“benefits”: [“Superior hydration”, “Electrolyte replacement”, “Faster recovery”],
+“ideal_for”: [“Athletic recovery”, “Intensive hydration”, “Post-workout recovery”]
+}
+]
+},
+{
+“id”: “myers-cocktails”,
+“name”: “Myers’ Cocktail Series”,
+“description”: “The gold standard of IV therapy with essential vitamins and minerals”,
+“treatments”: [
+{
+“id”: “003”,
+“name”: “Jr Myers’ Cocktail IV Bag”,
+“code”: “003”,
+“price”: 185,
+“duration”: “30-45 minutes”,
+“description”: “A lighter version of the Myers’ Cocktail, perfect for first-timers or gentle recharge”,
+“ingredients”: [
+“Sodium Chloride 0.9% IV Solution 500mL”,
+“Vitamin C”,
+“Vitamin B-Complex”,
+“Glutathione”
+],
+“benefits”: [“Gentle energy boost”, “Immune support”, “Antioxidant protection”],
+“ideal_for”: [“First-time patients”, “Maintenance therapy”, “Gentle wellness boost”]
+},
+{
+“id”: “001”,
+“name”: “Myers’ Cocktail IV Bag”,
+“code”: “001”,
+“price”: 205,
+“duration”: “30-45 minutes”,
+“description”: “The original gold standard of IV therapy with essential vitamins and minerals”,
+“ingredients”: [
+“Sodium Chloride 0.9% IV Solution 1000mL”,
+“Vitamin B-12”,
+“Zinc Sulfate”,
+“Magnesium Chloride”,
+“Glutathione”,
+“Vitamin C”,
+“Vitamin B-Complex”
+],
+“benefits”: [“Boosts immunity”, “Increases energy”, “Promotes wellness”, “Reduces fatigue”],
+“ideal_for”: [“General wellness”, “Immune support”, “Energy enhancement”, “Stress relief”]
+}
+]
+},
+{
+“id”: “002”,
+“name”: “Mega Myers’ Cocktail IV Bag”,
+“code”: “002”,
+“price”: 235,
+“duration”: “45-60 minutes”,
+“description”: “Enhanced Myers’ Cocktail with double-dose vitamins for maximum benefit”,
+“ingredients”: [
+“Sodium Chloride 0.9% IV Solution 1000mL”,
+“Vitamin B-12”,
+“Zinc Sulfate”,
+“Magnesium Chloride”,
+“Glutathione (2x Dose)”,
+“Vitamin C (2x Dose)”,
+“Vitamin B-Complex”
+],
+“benefits”: [“Maximum energy boost”, “Superior immune support”, “Enhanced recovery”],
+“ideal_for”: [“High stress periods”, “Intense training”, “Illness recovery”, “Maximum wellness”]
+}
+]
+},
+{
+“id”: “recovery-hydration”,
+“name”: “Recovery & Hydration”,
+“description”: “Specialized treatments for optimal recovery and hydration”,
+“treatments”: [
+{
+“id”: “004”,
+“name”: “Day After The Dale Hangover Relief”,
+“code”: “004”,
+“price”: 195,
+“duration”: “30-45 minutes”,
+“description”: “Fast hangover relief with anti-nausea medication and rapid rehydration”,
+“ingredients”: [
+“Sodium Chloride 0.9% IV Solution 1000mL”,
+“Vitamin B-Complex”,
+“Vitamin B-12”,
+“Ondansetron HCl (Anti-Nausea)”
+],
+“benefits”: [“Rapid rehydration”, “Nausea relief”, “Headache reduction”, “Energy restoration”],
+“ideal_for”: [“Hangover recovery”, “Nausea relief”, “Dehydration from alcohol”]
+},
+{
+“id”: “006”,
+“name”: “Gold Ultimate Hydration & Recovery”,
+“code”: “006”,
+“price”: 325,
+“duration”: “45-60 minutes”,
+“description”: “Premium hydration and recovery with Lactated Ringers and essential nutrients”,
+“ingredients”: [
+“Lactated Ringers IV Solution 1000mL”,
+“Vitamin C”,
+“Vitamin B-Complex”,
+“Ondansetron HCl (Anti-Nausea)”,
+“Glutathione”,
+“Vitamin B-12”,
+“Magnesium Chloride”
+],
+“benefits”: [“Maximum hydration”, “Complete recovery”, “Immune support”, “Energy restoration”],
+“ideal_for”: [“Athletic recovery”, “Illness recovery”, “Comprehensive wellness”]
+},
+{
+“id”: “005”,
+“name”: “Platinum Ultimate Hydration & Recovery”,
+“code”: “005”,
+“price”: 355,
+“duration”: “45-60 minutes”,
+“description”: “Our most comprehensive hydration and recovery treatment”,
+“ingredients”: [
+“Lactated Ringers IV Solution 1000mL”,
+“Vitamin C”,
+“Vitamin B-Complex”,
+“Zinc Sulfate”,
+“Glutathione”,
+“Vitamin B-12”,
+“Magnesium Chloride”
+],
+“benefits”: [“Ultimate hydration”, “Maximum recovery”, “Peak performance”, “Complete wellness”],
+“ideal_for”: [“Elite athletes”, “Maximum recovery needs”, “Premium wellness experience”]
+}
+]
+},
+{
+“id”: “performance-wellness”,
+“name”: “Performance & Wellness”,
+“description”: “Specialized treatments for athletic performance and targeted wellness”,
+“treatments”: [
+{
+“id”: “007”,
+“name”: “D-Book Athletic Performance Booster”,
+“code”: “007”,
+“price”: 215,
+“duration”: “45-60 minutes”,
+“description”: “Athletic performance optimization with amino acids and recovery nutrients”,
+“ingredients”: [
+“Sodium Chloride 0.9% IV Solution 1000mL”,
+“Vitamin C”,
+“Amino Blend (Proline, Arginine, Lysine, Citrulline)”,
+“Magnesium Chloride”,
+“Glutathione”,
+“L-Carnitine”,
+“Vitamin B-Complex”
+],
+“benefits”: [“Enhanced performance”, “Faster recovery”, “Improved endurance”, “Muscle support”],
+“ideal_for”: [“Athletes”, “Fitness enthusiasts”, “Pre/post workout”, “Competition preparation”]
+},
+{
+“id”: “008”,
+“name”: “Diamondback Immune System Booster”,
+“code”: “008”,
+“price”: 225,
+“duration”: “30-45 minutes”,
+“description”: “Powerful immune system support with high-dose Vitamin C and minerals”,
+“ingredients”: [
+“Lactated Ringers IV Solution 1000mL”,
+“Vitamin C (2x Dose)”,
+“Zinc Sulfate”,
+“Amino Blend (Proline, Arginine, Lysine, Citrulline)”
+],
+“benefits”: [“Immune system boost”, “Antioxidant protection”, “Illness prevention”, “Recovery support”],
+“ideal_for”: [“Illness prevention”, “Cold/flu season”, “Travel protection”, “Immune support”]
+},
+{
+“id”: “009”,
+“name”: “Arizona Detox and Cleanse”,
+“code”: “009”,
+“price”: 265,
+“duration”: “45-60 minutes”,
+“description”: “Comprehensive detoxification with glutathione and alpha lipoic acid”,
+“ingredients”: [
+“Sodium Chloride 0.9% IV Solution 1000mL”,
+“Vitamin C”,
+“Vitamin B-Complex”,
+“Zinc Sulfate”,
+“Glutathione”,
+“Magnesium Chloride”
+],
+“benefits”: [“Detoxification support”, “Liver health”, “Antioxidant boost”, “Cellular repair”],
+“ideal_for”: [“Detox programs”, “Liver support”, “Environmental toxin exposure”, “Wellness reset”]
+}
+]
+},
+{
+“id”: “beauty-energy”,
+“name”: “Beauty & Energy”,
+“description”: “Treatments focused on beauty enhancement and energy optimization”,
+“treatments”: [
+{
+“id”: “010”,
+“name”: “Scottsdale 10 Beauty IV Bag”,
+“code”: “010”,
+“price”: 245,
+“duration”: “30-45 minutes”,
+“description”: “Beauty enhancement with biotin, antioxidants, and skin-supporting nutrients”,
+“ingredients”: [
+“Vitamin C”,
+“Vitamin B-Complex”,
+“Biotin”,
+“Zinc Sulfate”,
+“Glutathione”,
+“Sodium Chloride 0.9% IV Solution 1000mL”
+],
+“benefits”: [“Skin health”, “Hair & nail strength”, “Antioxidant protection”, “Beauty enhancement”],
+“ideal_for”: [“Beauty enhancement”, “Skin health”, “Hair & nail support”, “Anti-aging”]
+},
+{
+“id”: “011”,
+“name”: “Sun Devil Energy Boost”,
+“code”: “011”,
+“price”: 225,
+“duration”: “30-45 minutes”,
+“description”: “Comprehensive energy enhancement with B-vitamins and metabolic boosters”,
+“ingredients”: [
+“Sodium Chloride 0.9% IV Solution 1000mL”,
+“Vitamin B-12”,
+“Vitamin B-Complex”,
+“Alpha Lipoic Acid”,
+“L-Taurine”,
+“Pyridoxine”,
+“Vitamin C”
+],
+“benefits”: [“Energy enhancement”, “Mental clarity”, “Metabolism boost”, “Fatigue reduction”],
+“ideal_for”: [“Energy deficiency”, “Mental fog”, “Metabolic support”, “Performance enhancement”]
+},
+{
+“id”: “012”,
+“name”: “Stress Relief IV Bag”,
+“code”: “012”,
+“price”: 215,
+“duration”: “30-45 minutes”,
+“description”: “Stress reduction and relaxation support with magnesium and B-vitamins”,
+“ingredients”: [
+“Sodium Chloride 0.9% IV Solution 1000mL”,
+“Magnesium Chloride”,
+“Vitamin B-12”,
+“Vitamin C”,
+“Thiamine HCL”,
+“Vitamin D3”
+],
+“benefits”: [“Stress reduction”, “Relaxation”, “Mood support”, “Sleep improvement”],
+“ideal_for”: [“Stress management”, “Anxiety relief”, “Sleep support”, “Relaxation”]
+},
+{
+“id”: “013”,
+“name”: “Mental Clarity IV Bag”,
+“code”: “013”,
+“price”: 225,
+“duration”: “30-45 minutes”,
+“description”: “Cognitive enhancement with brain-supporting nutrients and amino acids”,
+“ingredients”: [
+“Sodium Chloride 0.9% IV Solution 1000mL”,
+“Magnesium Chloride”,
+“Thiamine HCL”,
+“Vitamin B-12”,
+“Glutathione”
+],
+“benefits”: [“Mental clarity”, “Focus enhancement”, “Cognitive support”, “Brain health”],
+“ideal_for”: [“Mental fog”, “Focus issues”, “Cognitive enhancement”, “Brain health”]
+},
+{
+“id”: “014”,
+“name”: “Anti-Inflammatory IV Bag”,
+“code”: “014”,
+“price”: 235,
+“duration”: “30-45 minutes”,
+“description”: “Inflammation reduction with targeted nutrients and antioxidants”,
+“ingredients”: [
+“Lactated Ringers IV Solution 1000mL”,
+“Calcium Gluconate”,
+“Vitamin B-Complex”,
+“Glutathione”,
+“Ketorolac Tromethamine”,
+“Vitamin C”
+],
+“benefits”: [“Inflammation reduction”, “Pain relief”, “Recovery support”, “Antioxidant protection”],
+“ideal_for”: [“Inflammation”, “Pain management”, “Recovery”, “Athletic support”]
+}
+]
+},
+{
+“id”: “specialized-therapies”,
+“name”: “Specialized Therapies”,
+“description”: “Advanced treatments for specific wellness goals”,
+“treatments”: [
+{
+“id”: “015”,
+“name”: “Weight Management Support”,
+“code”: “015”,
+“price”: 245,
+“duration”: “30-45 minutes”,
+“description”: “Metabolic support for weight management goals with MIC and L-Carnitine”,
+“ingredients”: [
+“MIC (Methionine, Inositol, Choline)”,
+“Vitamin B-Complex”,
+“L-Carnitine”
+],
+“benefits”: [“Metabolism boost”, “Fat burning support”, “Energy enhancement”, “Weight management”],
+“ideal_for”: [“Weight loss goals”, “Metabolism support”, “Fitness programs”, “Body composition”]
+},
+{
+“id”: “016”,
+“name”: “Stay Dripped Special”,
+“code”: “016”,
+“price”: 345,
+“duration”: “60-90 minutes”,
+“description”: “Our signature comprehensive treatment with premium ingredients”,
+“ingredients”: [
+“Lactated Ringers IV Solution 1000mL”,
+“Vitamin C (2x Dose)”,
+“Glutathione (2x Dose)”,
+“Vitamin B-Complex”,
+“Amino Blend (Proline, Arginine, Lysine, Citrulline)”,
+“L-Carnitine”,
+“Alpha Lipoic Acid”
+],
+“benefits”: [“Comprehensive wellness”, “Maximum benefits”, “Premium experience”, “Complete support”],
+“ideal_for”: [“VIP experience”, “Maximum wellness”, “Special occasions”, “Complete optimization”]
+}
+]
+},
+{
+“id”: “nad-therapies”,
+“name”: “NAD+ Anti-Aging Therapies”,
+“description”: “Advanced cellular repair and anti-aging treatments with NAD+”,
+“treatments”: [
+{
+“id”: “016”,
+“name”: “NAD+ Therapy IV Bag”,
+“code”: “016”,
+“price”: 400,
+“duration”: “60-90 minutes”,
+“description”: “Pure NAD+ therapy for cellular repair and anti-aging benefits”,
+“ingredients”: [
+“NAD+ 50mg”,
+“Sodium Chloride 0.9% IV Solution 1000mL”
+],
+“benefits”: [“Cellular repair”, “Anti-aging”, “Energy enhancement”, “Mental clarity”],
+“ideal_for”: [“Anti-aging”, “Cellular health”, “Energy optimization”, “Cognitive enhancement”]
+},
+{
+“id”: “015”,
+“name”: “Fountain Of Youth IV Bag”,
+“code”: “015”,
+“price”: 425,
+“duration”: “60-90 minutes”,
+“description”: “Comprehensive anti-aging treatment with NAD+ and beauty nutrients”,
+“ingredients”: [
+“Sodium Chloride 0.9% IV Solution 1000mL”,
+“NAD+ 50mg”,
+“Vitamin C”,
+“Glutathione”,
+“Zinc Sulfate”,
+“Biotin”,
+“Vitamin B-Complex”
+],
+“benefits”: [“Anti-aging”, “Skin health”, “Energy boost”, “Cellular repair”],
+“ideal_for”: [“Anti-aging goals”, “Beauty enhancement”, “Cellular health”, “Longevity”]
+},
+{
+“id”: “017”,
+“name”: “Platinum NAD+ Therapy IV Bag”,
+“code”: “017”,
+“price”: 475,
+“duration”: “60-90 minutes”,
+“description”: “Enhanced NAD+ therapy with essential vitamins for comprehensive wellness”,
+“ingredients”: [
+“Sodium Chloride 0.9% IV Solution 1000mL”,
+“NAD+ 50mg”,
+“Vitamin B-Complex”,
+“Vitamin C”
+],
+“benefits”: [“Enhanced anti-aging”, “Cognitive support”, “Energy optimization”, “Wellness boost”],
+“ideal_for”: [“Premium anti-aging”, “Cognitive enhancement”, “Energy optimization”, “Comprehensive wellness”]
+},
+{
+“id”: “018”,
+“name”: “Diamond NAD+ Therapy IV Bag”,
+“code”: “018”,
+“price”: 525,
+“duration”: “90-120 minutes”,
+“description”: “Our most advanced NAD+ treatment with maximum anti-aging benefits”,
+“ingredients”: [
+“Sodium Chloride 0.9% IV Solution 1000mL”,
+“NAD+ 100mg”,
+“Vitamin B-Complex”,
+“Vitamin C (2x Dose)”,
+“Glutathione”,
+“Vitamin B-12”
+],
+“benefits”: [“Maximum anti-aging”, “Superior cognitive enhancement”, “Peak energy”, “Optimal cellular repair”],
+“ideal_for”: [“Maximum anti-aging”, “Elite wellness”, “Cognitive optimization”, “Longevity programs”]
+}
+]
+},
+{
+“id”: “basic-rehydration”,
+“name”: “Basic Rehydration Plus”,
+“description”: “Enhanced basic hydration with vitamin support”,
+“treatments”: [
+{
+“id”: “024”,
+“name”: “Basic Rehydrate IV Bag”,
+“code”: “024”,
+“price”: 145,
+“duration”: “20-30 minutes”,
+“description”: “Simple hydration with vitamin boost for quick recovery”,
+“ingredients”: [
+“Sodium Chloride 0.9% (Saline) 500mL”,
+“Vitamin B-Complex”
+],
+“benefits”: [“Quick hydration”, “Vitamin replenishment”, “Energy boost”],
+“ideal_for”: [“Quick hydration”, “Travel recovery”, “Mild dehydration”]
+},
+{
+“id”: “025”,
+“name”: “Basic Rehydrate IV Bag 2.0”,
+“code”: “025”,
+“price”: 155,
+“duration”: “30-45 minutes”,
+“description”: “Full liter hydration with essential vitamins for robust recovery”,
+“ingredients”: [
+“Sodium Chloride 0.9% (Saline) 1000mL”,
+“Vitamin B-Complex”
+],
+“benefits”: [“Complete hydration”, “Vitamin support”, “Extended recovery”],
+“ideal_for”: [“Full hydration”, “Post-workout”, “Travel recovery”]
+},
+{
+“id”: “026”,
+“name”: “Basic Rehydrate IV Bag 3.0”,
+“code”: “026”,
+“price”: 165,
+“duration”: “30-45 minutes”,
+“description”: “Premium hydration with Lactated Ringer’s and vitamins”,
+“ingredients”: [
+“Lactated Ringer 1000mL IV Solution”,
+“Vitamin B-Complex”
+],
+“benefits”: [“Superior hydration”, “Electrolyte balance”, “Enhanced recovery”],
+“ideal_for”: [“Athletic recovery”, “Intensive hydration”, “Post-exercise”]
+}
+]
+},
+{
+“id”: “custom-treatments”,
+“name”: “Custom Treatments”,
+“description”: “Personalized IV therapy options”,
+“treatments”: [
+{
+“id”: “020”,
+“name”: “Build Your Own IV Bag”,
+“code”: “020”,
+“price”: 230,
+“duration”: “30-60 minutes”,
+“description”: “Customize your IV therapy with your choice of base and add-ins”,
+“ingredients”: [
+“Saline Or Lactated Ringer IV Solution (+$125)”,
+“Add In #1 (+$35)”,
+“Add In #2 (+$35)”,
+“Add In #3 (+$35)”
+],
+“benefits”: [“Personalized therapy”, “Targeted treatment”, “Flexible options”],
+“ideal_for”: [“Specific needs”, “Personalized wellness”, “Targeted therapy”]
+}
+]
+}
+]
+},
+“add_ons”: {
+“title”: “IV Add-Ons & Boosters”,
+“subtitle”: “Enhance your treatment with targeted add-ons”,
+“categories”: [
+{
+“name”: “Vitamin Boosters”,
+“add_ons”: [
+{
+“name”: “Vitamin C Boost”,
+“price”: 25,
+“description”: “Extra immune and antioxidant support”
+},
+{
+“name”: “Vitamin B-12”,
+“price”: 25,
+“description”: “Energy and metabolism enhancement”
+},
+{
+“name”: “Biotin”,
+“price”: 30,
+“description”: “Hair, skin, and nail support”
+},
+{
+“name”: “Vitamin D3”,
+“price”: 30,
+“description”: “Bone health and immune support”
+}
+]
+},
+{
+“name”: “Wellness Enhancers”,
+“add_ons”: [
+{
+“name”: “Glutathione”,
+“price”: 35,
+“description”: “Master antioxidant for detox and skin health”
+},
+{
+“name”: “Alpha Lipoic Acid”,
+“price”: 35,
+“description”: “Powerful antioxidant and anti-aging support”
+},
+{
+“name”: “L-Carnitine”,
+“price”: 30,
+“description”: “Fat burning and energy metabolism”
+},
+{
+“name”: “Taurine”,
+“price”: 30,
+“description”: “Cardiovascular and athletic support”
+}
+]
+},
+{
+“name”: “Medications”,
+“add_ons”: [
+{
+“name”: “Anti-Nausea (Ondansetron)”,
+“price”: 25,
+“description”: “Nausea and vomiting relief”
+},
+{
+“name”: “Pain Relief (Ketorolac)”,
+“price”: 30,
+“description”: “Anti-inflammatory pain relief”
+},
+{
+“name”: “Anti-Acid (Famotidine)”,
+“price”: 25,
+“description”: “Stomach acid reduction”
+}
+]
+}
+]
+},
+“booking_info”: {
+“title”: “Easy Online Booking”,
+“subtitle”: “Book your IV therapy session in minutes”,
+“platforms”: [
+{
+“name”: “IntakeQ Online Booking”,
+“url”: “https://Staydrippediv.intakeq.com/booking”,
+“description”: “Complete online booking system with service selection and scheduling”
+},
+{
+“name”: “Phone Booking”,
+“phone”: “(602) 761-0492”,
+“description”: “Call or text to schedule your appointment”
+},
+{
+“name”: “WhatsApp Booking”,
+“phone”: “(602) 761-0492”,
+“description”: “Quick booking via WhatsApp”
+}
+],
+“requirements”: {
+“first_time”: “All first-time patients must complete a Good Faith Exam (GFE) before treatment”,
+“gfe_url”: “https://book.qualiphy.me/staydrippediv/gfe”,
+“age_limit”: “Must be 18 years or older”,
+“id_required”: “Valid photo ID required”
+}
+},
+“service_areas”: {
+“title”: “Service Areas”,
+“primary”: [
+“Scottsdale”,
+“Phoenix”,
+“Paradise Valley”,
+“Tempe”,
+“Mesa”,
+“Chandler”
+],
+“extended”: [
+“Fountain Hills”,
+“Cave Creek”,
+“Carefree”,
+“Gilbert”,
+“Ahwatukee”,
+“Peoria”
+],
+“mobile_fee”: “Additional travel fees may apply for areas outside our primary service zone”
+},
+“safety_info”: {
+“title”: “Safety & Quality”,
+“features”: [
+“Licensed medical professionals”,
+“FDA-approved medications”,
+“Sterile single-use equipment”,
+“Medical director oversight”,
+“Comprehensive health screening”,
+“Emergency protocols in place”
+]
+}
+}

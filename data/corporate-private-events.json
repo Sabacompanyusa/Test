@@ -1,0 +1,389 @@
+{
+“corporatePackages”: [
+{
+“id”: “wellness-day”,
+“name”: “Corporate Wellness Day”,
+“type”: “Single Event”,
+“duration”: “4-8 hours”,
+“minParticipants”: 10,
+“maxParticipants”: 50,
+“pricePerPerson”: 89,
+“setupFee”: 200,
+“description”: “Transform your office into a wellness oasis with on-site IV therapy services”,
+“features”: [
+“Professional medical staff on-site”,
+“Choice of 3 IV therapy options”,
+“Vitamin B12 energy shots included”,
+“Wellness consultation for each participant”,
+“Health screening stations”,
+“Branded wellness materials”,
+“Post-event health reports”
+],
+“ivOptions”: [
+{
+“name”: “Productivity Boost”,
+“description”: “B-complex vitamins and amino acids for mental clarity and focus”
+},
+{
+“name”: “Stress Relief”,
+“description”: “Magnesium and adaptogens to reduce workplace stress”
+},
+{
+“name”: “Energy Enhancement”,
+“description”: “B12, taurine, and essential nutrients for sustained energy”
+}
+],
+“included”: [
+“Medical supplies and equipment”,
+“Licensed healthcare professionals”,
+“Liability insurance coverage”,
+“Setup and breakdown service”,
+“Employee wellness cards”,
+“Follow-up health tips”
+]
+},
+{
+“id”: “executive-program”,
+“name”: “Executive Health Program”,
+“type”: “Ongoing Service”,
+“duration”: “Monthly”,
+“minParticipants”: 5,
+“maxParticipants”: 25,
+“pricePerPerson”: 149,
+“setupFee”: 0,
+“description”: “Premium wellness program designed for C-suite executives and senior leadership”,
+“features”: [
+“Monthly on-site IV therapy sessions”,
+“Personalized health assessments”,
+“Executive-grade NAD+ treatments”,
+“Stress management protocols”,
+“Performance optimization consulting”,
+“Quarterly lab work analysis”,
+“24/7 concierge health support”
+],
+“ivOptions”: [
+{
+“name”: “Executive Performance”,
+“description”: “Premium cognitive enhancement blend with nootropics”
+},
+{
+“name”: “Stress Management Elite”,
+“description”: “Advanced stress reduction with adaptogenic compounds”
+},
+{
+“name”: “Recovery & Renewal”,
+“description”: “Anti-aging and cellular repair therapy”
+}
+],
+“included”: [
+“Private treatment rooms setup”,
+“Executive health coordinator”,
+“Flexible scheduling”,
+“Confidential health records”,
+“Premium treatment options”,
+“Health optimization planning”
+]
+},
+{
+“id”: “team-building”,
+“name”: “Wellness Team Building”,
+“type”: “Event Package”,
+“duration”: “2-4 hours”,
+“minParticipants”: 15,
+“maxParticipants”: 100,
+“pricePerPerson”: 69,
+“setupFee”: 150,
+“description”: “Combine team building activities with wellness education and IV therapy”,
+“features”: [
+“Interactive wellness workshops”,
+“Team hydration challenges”,
+“Group IV therapy sessions”,
+“Nutrition education seminars”,
+“Fitness assessments”,
+“Healthy competition activities”,
+“Team wellness goals setting”
+],
+“ivOptions”: [
+{
+“name”: “Team Energy”,
+“description”: “Group-focused energy blend for team synergy”
+},
+{
+“name”: “Hydration Station”,
+“description”: “Essential hydration for team activities”
+},
+{
+“name”: “Recovery Blend”,
+“description”: “Post-activity recovery and muscle repair”
+}
+],
+“included”: [
+“Professional wellness facilitators”,
+“Team building materials”,
+“Group photos and documentation”,
+“Wellness challenge prizes”,
+“Take-home wellness kits”,
+“Follow-up team check-ins”
+]
+},
+{
+“id”: “conference-support”,
+“name”: “Conference & Event Support”,
+“type”: “Event Service”,
+“duration”: “1-3 days”,
+“minParticipants”: 25,
+“maxParticipants”: 500,
+“pricePerPerson”: 59,
+“setupFee”: 500,
+“description”: “Keep attendees energized and focused throughout multi-day conferences and events”,
+“features”: [
+“Pop-up wellness stations”,
+“Express IV therapy treatments”,
+“Hangover recovery services”,
+“Energy boost stations”,
+“VIP attendee packages”,
+“Networking event support”,
+“Speaker wellness packages”
+],
+“ivOptions”: [
+{
+“name”: “Conference Clarity”,
+“description”: “Focus and mental clarity for long conference days”
+},
+{
+“name”: “Hangover Rescue”,
+“description”: “Rapid recovery from networking events”
+},
+{
+“name”: “Travel Recovery”,
+“description”: “Combat travel fatigue and jet lag”
+}
+],
+“included”: [
+“Portable treatment stations”,
+“Express 20-minute treatments”,
+“Conference branding options”,
+“VIP lounge setup”,
+“Speaker green room service”,
+“Event photography”
+]
+}
+],
+“industrySpecialty”: [
+{
+“industry”: “Technology”,
+“icon”: “💻”,
+“specializations”: [
+“Programmer fatigue relief”,
+“Eye strain and headache treatment”,
+“Posture-related tension relief”,
+“Mental clarity enhancement”,
+“Sleep cycle optimization”
+],
+“popularPackages”: [“Executive Health Program”, “Wellness Team Building”]
+},
+{
+“industry”: “Healthcare”,
+“icon”: “🏥”,
+“specializations”: [
+“Shift work fatigue management”,
+“Immune system support”,
+“Stress and burnout prevention”,
+“Energy for long shifts”,
+“Recovery between rotations”
+],
+“popularPackages”: [“Corporate Wellness Day”, “Executive Health Program”]
+},
+{
+“industry”: “Finance”,
+“icon”: “💼”,
+“specializations”: [
+“High-stress environment support”,
+“Long hours energy maintenance”,
+“Market stress management”,
+“Executive performance optimization”,
+“Deadline pressure relief”
+],
+“popularPackages”: [“Executive Health Program”, “Wellness Team Building”]
+},
+{
+“industry”: “Manufacturing”,
+“icon”: “🏭”,
+“specializations”: [
+“Physical labor recovery”,
+“Safety enhancement through wellness”,
+“Shift work support”,
+“Injury prevention programs”,
+“Worker performance optimization”
+],
+“popularPackages”: [“Corporate Wellness Day”, “Team Building”]
+}
+],
+“testimonials”: [
+{
+“company”: “Phoenix Tech Solutions”,
+“industry”: “Technology”,
+“size”: “150 employees”,
+“program”: “Executive Health Program”,
+“testimonial”: “Our productivity increased 23% after implementing Stay Dripped’s executive program. Our leadership team feels more energized and focused than ever.”,
+“contact”: “Sarah Chen, HR Director”,
+“rating”: 5,
+“metrics”: {
+“productivityIncrease”: “23%”,
+“sickDaysReduced”: “31%”,
+“employeeSatisfaction”: “94%”
+}
+},
+{
+“company”: “Arizona Medical Group”,
+“industry”: “Healthcare”,
+“size”: “85 employees”,
+“program”: “Corporate Wellness Day”,
+“testimonial”: “As healthcare workers, we know the importance of wellness. Stay Dripped delivered exceptional service that our entire staff appreciated.”,
+“contact”: “Dr. Michael Rodriguez, Chief Medical Officer”,
+“rating”: 5,
+“metrics”: {
+“stressReduction”: “45%”,
+“energyLevels”: “38% increase”,
+“jobSatisfaction”: “91%”
+}
+},
+{
+“company”: “Desert Financial”,
+“industry”: “Finance”,
+“size”: “220 employees”,
+“program”: “Wellness Team Building”,
+“testimonial”: “The team building event was innovative and effective. Our employees loved the wellness focus, and team cohesion improved significantly.”,
+“contact”: “Jennifer Walsh, VP Human Resources”,
+“rating”: 5,
+“metrics”: {
+“teamCohesion”: “42% improvement”,
+“communicationScores”: “35% increase”,
+“retention”: “18% improvement”
+}
+},
+{
+“company”: “Southwest Manufacturing”,
+“industry”: “Manufacturing”,
+“size”: “320 employees”,
+“program”: “Corporate Wellness Day”,
+“testimonial”: “Worker safety and performance improved dramatically. The wellness day became our most requested employee benefit.”,
+“contact”: “Carlos Martinez, Operations Manager”,
+“rating”: 5,
+“metrics”: {
+“safetyIncidents”: “28% reduction”,
+“productivity”: “19% increase”,
+“absenteeism”: “35% decrease”
+}
+}
+],
+“customization”: {
+“title”: “Fully Customizable Programs”,
+“description”: “Every corporate program is tailored to your company’s specific needs, culture, and goals.”,
+“options”: [
+{
+“category”: “Branding”,
+“options”: [
+“Custom branded materials”,
+“Company logo integration”,
+“Personalized wellness cards”,
+“Branded treatment stations”
+]
+},
+{
+“category”: “Scheduling”,
+“options”: [
+“Flexible timing options”,
+“Multiple session formats”,
+“Recurring appointments”,
+“Emergency services available”
+]
+},
+{
+“category”: “Treatments”,
+“options”: [
+“Industry-specific formulations”,
+“Custom IV blends”,
+“Specialized add-on services”,
+“Targeted wellness goals”
+]
+},
+{
+“category”: “Reporting”,
+“options”: [
+“Participation analytics”,
+“Health outcome metrics”,
+“ROI calculations”,
+“Employee satisfaction surveys”
+]
+}
+]
+},
+“pricing”: {
+“discountTiers”: [
+{
+“participants”: “10-24”,
+“discount”: “5%”,
+“description”: “Small team discount”
+},
+{
+“participants”: “25-49”,
+“discount”: “10%”,
+“description”: “Medium group discount”
+},
+{
+“participants”: “50-99”,
+“discount”: “15%”,
+“description”: “Large group discount”
+},
+{
+“participants”: “100+”,
+“discount”: “20%”,
+“description”: “Enterprise discount”
+}
+],
+“additionalServices”: [
+{
+“service”: “Health Screening”,
+“price”: 25,
+“description”: “Basic vitals and wellness assessment”
+},
+{
+“service”: “Lab Work Coordination”,
+“price”: 50,
+“description”: “Arrange and analyze lab results”
+},
+{
+“service”: “Nutrition Consultation”,
+“price”: 75,
+“description”: “Personalized nutrition planning”
+},
+{
+“service”: “Wellness Workshop”,
+“price”: 150,
+“description”: “1-hour interactive wellness education”
+}
+]
+},
+“booking”: {
+“leadTime”: “2-4 weeks for optimal scheduling”,
+“minimumNotice”: “1 week for small events”,
+“cancellationPolicy”: “48 hours for full refund”,
+“reschedulePolicy”: “Free rescheduling with 72 hours notice”,
+“depositRequired”: “25% deposit to secure booking”,
+“paymentTerms”: “Net 30 for established corporate accounts”
+},
+“contactInfo”: {
+“corporateSales”: {
+“phone”: “(602) 688-9825”,
+“email”: “matthew@staydrippedmobileiv.com”,
+“hours”: “Monday-Friday, 8AM-6PM MST”
+},
+“eventCoordinator”: {
+“name”: “Amanda Rodriguez”,
+“title”: “Corporate Wellness Director”,
+“phone”: “(602) 555-0123”,
+“email”: “mailto:info@staydrippedmobileiv.com”
+}
+}
+}

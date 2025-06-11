@@ -1,0 +1,368 @@
+{
+“reviewPlatforms”: [
+{
+“platform”: “Google Reviews”,
+“rating”: 4.9,
+“totalReviews”: 847,
+“url”: “https://g.page/r/StayDrippedIV/review”,
+“icon”: “🌟”,
+“primary”: true
+},
+{
+“platform”: “Yelp”,
+“rating”: 4.8,
+“totalReviews”: 312,
+“url”: “https://yelp.com/biz/stay-dripped-iv-phoenix”,
+“icon”: “📱”,
+“primary”: true
+},
+{
+“platform”: “Facebook”,
+“rating”: 4.9,
+“totalReviews”: 623,
+“url”: “https://facebook.com/staydripediv/reviews”,
+“icon”: “📘”,
+“primary”: true
+},
+{
+“platform”: “Healthgrades”,
+“rating”: 4.7,
+“totalReviews”: 156,
+“url”: “https://healthgrades.com/stay-dripped-iv”,
+“icon”: “🏥”,
+“primary”: false
+}
+],
+“overallStats”: {
+“averageRating”: 4.85,
+“totalReviews”: 1938,
+“fiveStarPercentage”: 87,
+“recommendationRate”: 96,
+“responseRate”: 100,
+“averageResponseTime”: “2 hours”
+},
+“featuredTestimonials”: [
+{
+“id”: “sarah-m-phoenix”,
+“name”: “Sarah M.”,
+“location”: “Phoenix, AZ”,
+“service”: “Myers Cocktail”,
+“rating”: 5,
+“date”: “2025-05-28”,
+“title”: “Life-changing IV therapy experience!”,
+“testimonial”: “I’ve been struggling with chronic fatigue for months, and after my first Myers Cocktail at Stay Dripped, I felt like a completely new person. The staff was incredibly professional, the facility is spotless, and the results were immediate. I’m now a VIP member and couldn’t be happier!”,
+“verified”: true,
+“platform”: “Google”,
+“helpful”: 23,
+“tags”: [“chronic fatigue”, “energy boost”, “professional staff”],
+“beforeAfter”: {
+“before”: “Exhausted daily, struggling to work”,
+“after”: “Energized, productive, back to normal life”
+}
+},
+{
+“id”: “michael-r-scottsdale”,
+“name”: “Michael R.”,
+“location”: “Scottsdale, AZ”,
+“service”: “NAD+ Anti-Aging”,
+“rating”: 5,
+“date”: “2025-05-25”,
+“title”: “Best investment in my health at 45”,
+“testimonial”: “As a busy executive, I was feeling burned out and aging fast. The NAD+ treatments at Stay Dripped have been incredible - better sleep, improved focus, and I genuinely feel 10 years younger. The concierge service is worth every penny.”,
+“verified”: true,
+“platform”: “Yelp”,
+“helpful”: 18,
+“tags”: [“anti-aging”, “executive health”, “NAD+”, “concierge service”],
+“beforeAfter”: {
+“before”: “Burned out, poor sleep, mental fog”,
+“after”: “Sharp focus, great sleep, renewed energy”
+}
+},
+{
+“id”: “jennifer-l-tempe”,
+“name”: “Jennifer L.”,
+“location”: “Tempe, AZ”,
+“service”: “Hangover Recovery”,
+“rating”: 5,
+“date”: “2025-05-22”,
+“title”: “Miracle hangover cure!”,
+“testimonial”: “After my bachelorette party, I was absolutely miserable. My maid of honor surprised me with Stay Dripped’s hangover recovery IV, and within an hour I felt completely normal. Saved my wedding weekend! The nurse was so kind and understanding.”,
+“verified”: true,
+“platform”: “Facebook”,
+“helpful”: 31,
+“tags”: [“hangover recovery”, “special events”, “fast results”],
+“beforeAfter”: {
+“before”: “Severe hangover, nauseous, dehydrated”,
+“after”: “Completely recovered, ready for wedding”
+}
+},
+{
+“id”: “david-k-mesa”,
+“name”: “David K.”,
+“location”: “Mesa, AZ”,
+“service”: “Athletic Performance”,
+“rating”: 5,
+“date”: “2025-05-20”,
+“title”: “Game changer for my marathon training”,
+“testimonial”: “Training for the Boston Marathon in Arizona heat was brutal until I discovered Stay Dripped. Their Athletic Performance IV has cut my recovery time in half. I’m running personal bests at 38 years old. The sports medicine knowledge of their team is impressive.”,
+“verified”: true,
+“platform”: “Google”,
+“helpful”: 27,
+“tags”: [“athletic performance”, “marathon training”, “recovery”],
+“beforeAfter”: {
+“before”: “Slow recovery, struggling in heat”,
+“after”: “Fast recovery, personal best times”
+}
+},
+{
+“id”: “lisa-h-phoenix”,
+“name”: “Lisa H.”,
+“location”: “Phoenix, AZ”,
+“service”: “Beauty Glow”,
+“rating”: 5,
+“date”: “2025-05-18”,
+“title”: “My skin has never looked better!”,
+“testimonial”: “I’ve tried every skincare treatment imaginable, but nothing compares to the Beauty Glow IV at Stay Dripped. My skin is glowing, my hair is stronger, and I get compliments daily. The monthly membership is the best beauty investment I’ve ever made.”,
+“verified”: true,
+“platform”: “Yelp”,
+“helpful”: 42,
+“tags”: [“beauty”, “skin health”, “membership”, “anti-aging”],
+“beforeAfter”: {
+“before”: “Dull skin, brittle hair, tired appearance”,
+“after”: “Glowing skin, strong hair, youthful look”
+}
+},
+{
+“id”: “robert-t-glendale”,
+“name”: “Robert T.”,
+“location”: “Glendale, AZ”,
+“service”: “Corporate Wellness Event”,
+“rating”: 5,
+“date”: “2025-05-15”,
+“title”: “Outstanding corporate wellness service”,
+“testimonial”: “Stay Dripped provided IV therapy for our company’s wellness day, and it was phenomenal. Professional setup, knowledgeable staff, and our employees loved it. Productivity has noticeably increased since the event. Highly recommend for any company serious about employee wellness.”,
+“verified”: true,
+“platform”: “Google”,
+“helpful”: 19,
+“tags”: [“corporate wellness”, “employee benefits”, “productivity”],
+“beforeAfter”: {
+“before”: “Tired, stressed employees”,
+“after”: “Energized, motivated workforce”
+}
+}
+],
+“categoryReviews”: {
+“energy”: {
+“averageRating”: 4.9,
+“totalReviews”: 523,
+“topServices”: [“Myers Cocktail”, “B12 Energy Shot”, “Athletic Performance”],
+“commonWords”: [“energized”, “amazing”, “life-changing”, “immediate”]
+},
+“beauty”: {
+“averageRating”: 4.8,
+“totalReviews”: 387,
+“topServices”: [“Beauty Glow”, “Biotin Shot”, “Collagen Boost”],
+“commonWords”: [“glowing”, “radiant”, “younger”, “compliments”]
+},
+“recovery”: {
+“averageRating”: 4.9,
+“totalReviews”: 445,
+“topServices”: [“Hangover Recovery”, “Athletic Recovery”, “Jet Lag Relief”],
+“commonWords”: [“miracle”, “saved”, “immediate”, “perfect”]
+},
+“wellness”: {
+“averageRating”: 4.8,
+“totalReviews”: 583,
+“topServices”: [“Immunity Boost”, “Stress Relief”, “Sleep Enhancement”],
+“commonWords”: [“healthy”, “balanced”, “refreshed”, “peaceful”]
+}
+},
+“reviewIncentives”: {
+“programs”: [
+{
+“name”: “Review Rewards”,
+“description”: “Earn points for verified reviews”,
+“rewards”: [
+{
+“platform”: “Google”,
+“points”: 100,
+“description”: “100 points for verified Google review”
+},
+{
+“platform”: “Yelp”,
+“points”: 75,
+“description”: “75 points for verified Yelp review”
+},
+{
+“platform”: “Facebook”,
+“points”: 50,
+“description”: “50 points for Facebook review”
+}
+]
+},
+{
+“name”: “Photo Reviews”,
+“description”: “Extra points for reviews with photos”,
+“bonus”: 50,
+“requirements”: [“High-quality photo”, “Genuine review”, “Shows treatment area”]
+},
+{
+“name”: “Video Testimonials”,
+“description”: “Premium rewards for video testimonials”,
+“bonus”: 200,
+“requirements”: [“2-minute minimum”, “Professional quality”, “Permission to use”]
+}
+],
+“pointsRedemption”: [
+{
+“points”: 100,
+“reward”: “$10 credit”,
+“description”: “Account credit for future services”
+},
+{
+“points”: 250,
+“reward”: “Free vitamin shot”,
+“description”: “Choice of B12, B-Complex, or Vitamin D”
+},
+{
+“points”: 500,
+“reward”: “50% off next IV”,
+“description”: “Discount on any IV therapy service”
+},
+{
+“points”: 1000,
+“reward”: “Free IV session”,
+“description”: “Complimentary IV therapy of your choice”
+}
+]
+},
+“responseTemplates”: {
+“positiveResponse”: {
+“template”: “Thank you so much for your amazing review, {customerName}! We’re thrilled that you had such a positive experience with {serviceName}. Your feedback means the world to us and helps other people discover the benefits of IV therapy. We look forward to seeing you again soon! 💧✨”,
+“variations”: [
+“We’re so grateful for your kind words about {serviceName}! It’s wonderful to hear about your positive results.”,
+“Thank you for choosing Stay Dripped and sharing your experience! We’re delighted that {serviceName} exceeded your expectations.”
+]
+},
+“negativeResponse”: {
+“template”: “Thank you for your feedback, {customerName}. We sincerely apologize that your experience didn’t meet our high standards. We’d love the opportunity to make this right. Please contact us directly at support@staydripediv.com or (602) 555-DRIP so we can address your concerns personally.”,
+“escalation”: “Notify management within 2 hours for ratings below 4 stars”
+}
+},
+“reviewManagement”: {
+“monitoring”: {
+“frequency”: “Real-time alerts for new reviews”,
+“platforms”: [“Google”, “Yelp”, “Facebook”, “Healthgrades”],
+“responseTime”: “Within 2 hours during business hours”
+},
+“quality”: {
+“verification”: “All reviews verified for authenticity”,
+“reporting”: “Fake reviews reported and removed”,
+“encouragement”: “Follow-up emails sent 48 hours post-service”
+},
+“analytics”: {
+“tracking”: [
+“Review volume trends”,
+“Rating distribution”,
+“Service-specific feedback”,
+“Sentiment analysis”
+],
+“reporting”: “Monthly review performance reports”,
+“actionItems”: “Improvement plans based on feedback patterns”
+}
+},
+“testimonialContent”: {
+“beforeAfter”: [
+{
+“condition”: “Chronic Fatigue”,
+“before”: “Exhausted daily, unable to complete tasks”,
+“after”: “Energized throughout the day, productivity restored”,
+“treatment”: “Myers Cocktail series”
+},
+{
+“condition”: “Hangover”,
+“before”: “Severe nausea, headache, dehydration”,
+“after”: “Completely recovered within 1 hour”,
+“treatment”: “Hangover Recovery IV”
+},
+{
+“condition”: “Athletic Performance”,
+“before”: “Slow recovery, muscle fatigue, dehydration”,
+“after”: “50% faster recovery, improved endurance”,
+“treatment”: “Athletic Performance IV”
+},
+{
+“condition”: “Skin Health”,
+“before”: “Dull, aging skin, brittle hair”,
+“after”: “Glowing complexion, stronger hair growth”,
+“treatment”: “Beauty Glow IV monthly”
+}
+]
+},
+“socialProof”: {
+“statistics”: [
+{
+“metric”: “Customer Satisfaction”,
+“value”: “98.5%”,
+“description”: “of customers would recommend us”
+},
+{
+“metric”: “Repeat Customers”,
+“value”: “89%”,
+“description”: “return for additional treatments”
+},
+{
+“metric”: “Membership Retention”,
+“value”: “94%”,
+“description”: “annual membership renewal rate”
+},
+{
+“metric”: “Five-Star Reviews”,
+“value”: “87%”,
+“description”: “of all reviews are 5-star”
+}
+],
+“certifications”: [
+“Arizona Department of Health Licensed”,
+“Better Business Bureau A+ Rating”,
+“HIPAA Compliant Facility”,
+“Licensed Medical Professionals”
+]
+},
+“reviewCollection”: {
+“timing”: [
+{
+“trigger”: “24 hours post-treatment”,
+“method”: “Automated email with review links”,
+“message”: “How was your Stay Dripped experience?”
+},
+{
+“trigger”: “1 week post-treatment”,
+“method”: “SMS follow-up”,
+“message”: “Feeling great? Share your experience!”
+},
+{
+“trigger”: “30 days post-treatment”,
+“method”: “Phone call for premium services”,
+“message”: “Personal check-in and review request”
+}
+],
+“channels”: [
+{
+“channel”: “Email”,
+“template”: “Professional follow-up with direct links”,
+“effectiveness”: “35% response rate”
+},
+{
+“channel”: “SMS”,
+“template”: “Friendly text with review links”,
+“effectiveness”: “28% response rate”
+},
+{
+“channel”: “In-person”,
+“template”: “QR codes at checkout”,
+“effectiveness”: “45% response rate”
+}
+]
+}
+}

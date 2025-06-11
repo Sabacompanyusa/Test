@@ -1,0 +1,189 @@
+{
+“hero”: {
+“title”: “Stay Dripped IV”,
+“subtitle”: “Mobile IV Therapy”,
+“tagline”: “Premium IV Hydration & Wellness Delivered to Your Door”,
+“description”: “Arizona’s premier mobile IV therapy service bringing professional hydration, vitamin therapy, and wellness treatments directly to you in Scottsdale, Phoenix, and surrounding areas.”,
+“cta”: {
+“primary”: “Book Your IV Now”,
+“secondary”: “View Services”
+},
+“features”: [
+“Licensed Medical Professionals”,
+“Mobile Service Available 7 Days/Week”,
+“Same-Day Appointments”,
+“All-Natural Ingredients”,
+“FDA-Approved Medications”
+]
+},
+“services”: {
+“title”: “Our IV Therapy Services”,
+“subtitle”: “Choose from our comprehensive menu of IV treatments”,
+“categories”: [
+{
+“name”: “Popular Treatments”,
+“treatments”: [
+{
+“id”: “001”,
+“name”: “Myers’ Cocktail IV Bag”,
+“price”: 205,
+“description”: “The gold standard of IV therapy with essential vitamins and minerals”,
+“duration”: “30-45 minutes”,
+“benefits”: [“Boosts immunity”, “Increases energy”, “Promotes wellness”]
+},
+{
+“id”: “004”,
+“name”: “Day After The Dale Hangover Relief”,
+“price”: 195,
+“description”: “Fast hangover relief with anti-nausea and rehydration”,
+“duration”: “30-45 minutes”,
+“benefits”: [“Rapid rehydration”, “Nausea relief”, “Headache relief”]
+},
+{
+“id”: “005”,
+“name”: “Platinum Ultimate Hydration & Recovery”,
+“price”: 355,
+“description”: “Our premium hydration and recovery treatment”,
+“duration”: “45-60 minutes”,
+“benefits”: [“Maximum hydration”, “Athletic recovery”, “Immune support”]
+}
+]
+},
+{
+“name”: “Specialized Treatments”,
+“treatments”: [
+{
+“id”: “017”,
+“name”: “NAD+ Therapy IV Bag”,
+“price”: 425,
+“description”: “Anti-aging and cellular repair therapy”,
+“duration”: “60-90 minutes”,
+“benefits”: [“Anti-aging”, “Energy boost”, “Mental clarity”]
+},
+{
+“id”: “009”,
+“name”: “Scottsdale 10 Beauty IV Bag”,
+“price”: 245,
+“description”: “Beauty enhancement with biotin and antioxidants”,
+“duration”: “30-45 minutes”,
+“benefits”: [“Skin health”, “Hair & nail strength”, “Antioxidant support”]
+}
+]
+}
+]
+},
+“why_choose_us”: {
+“title”: “Why Choose Stay Dripped IV?”,
+“subtitle”: “Experience the difference with Arizona’s leading mobile IV therapy service”,
+“features”: [
+{
+“icon”: “🏥”,
+“title”: “Licensed Medical Professionals”,
+“description”: “All treatments administered by licensed RNs, EMTs, and medical professionals under physician supervision”
+},
+{
+“icon”: “🚐”,
+“title”: “Mobile Convenience”,
+“description”: “We come to you - home, office, hotel, or event. Available throughout Scottsdale, Phoenix, and surrounding areas”
+},
+{
+“icon”: “⚡”,
+“title”: “Fast & Effective”,
+“description”: “Feel better in 30-60 minutes with immediate nutrient absorption and hydration”
+},
+{
+“icon”: “🛡️”,
+“title”: “Safety First”,
+“description”: “FDA-approved medications, sterile equipment, and comprehensive medical screening for every client”
+},
+{
+“icon”: “📱”,
+“title”: “Easy Booking”,
+“description”: “Book online, by phone, or through our app. Same-day appointments available”
+},
+{
+“icon”: “💎”,
+“title”: “Premium Experience”,
+“description”: “Luxury comfort with professional service in the privacy of your chosen location”
+}
+]
+},
+“service_areas”: {
+“title”: “Service Areas”,
+“subtitle”: “We serve the greater Phoenix metropolitan area”,
+“primary_areas”: [
+“Scottsdale”,
+“Phoenix”,
+“Paradise Valley”,
+“Tempe”,
+“Mesa”,
+“Chandler”
+],
+“extended_areas”: [
+“Fountain Hills”,
+“Cave Creek”,
+“Carefree”,
+“Gilbert”,
+“Ahwatukee”,
+“Peoria”
+],
+“note”: “Additional travel fees may apply for areas outside our primary service zone. Contact us for availability.”
+},
+“testimonials”: {
+“title”: “What Our Clients Say”,
+“reviews”: [
+{
+“name”: “Sarah M.”,
+“location”: “Scottsdale, AZ”,
+“rating”: 5,
+“text”: “Amazing service! The nurse was professional and made me feel comfortable. I felt so much better after my Myers’ Cocktail. Will definitely book again!”,
+“treatment”: “Myers’ Cocktail”
+},
+{
+“name”: “Jake B.”,
+“location”: “Phoenix, AZ”,
+“rating”: 5,
+“text”: “Life saver after a rough night out. The hangover relief IV had me feeling human again in 30 minutes. Professional staff and great experience.”,
+“treatment”: “Hangover Relief”
+},
+{
+“name”: “Amanda K.”,
+“location”: “Paradise Valley, AZ”,
+“rating”: 5,
+“text”: “I use Stay Dripped for recovery after my marathon training. The athletic performance IV is a game changer. Highly recommend!”,
+“treatment”: “D-Book Athletic Performance”
+}
+]
+},
+“cta_section”: {
+“title”: “Ready to Feel Your Best?”,
+“subtitle”: “Book your mobile IV therapy session today”,
+“description”: “Join thousands of satisfied clients who trust Stay Dripped IV for their wellness needs.”,
+“buttons”: [
+{
+“text”: “Book Now”,
+“type”: “primary”,
+“action”: “booking”
+},
+{
+“text”: “Call (602) 761-0492”,
+“type”: “secondary”,
+“action”: “call”
+}
+]
+},
+“contact_info”: {
+“phone”: “(602) 761-0492”,
+“email”: “hello@staydrippediv.com”,
+“website”: “www.staydrippedmobileiv.com”,
+“hours”: {
+“weekdays”: “7:00 AM - 9:00 PM”,
+“weekends”: “8:00 AM - 8:00 PM”,
+“holidays”: “Limited availability - call for details”
+}
+},
+“emergency_notice”: {
+“title”: “Medical Emergency Notice”,
+“text”: “Stay Dripped IV provides wellness and hydration therapy. For medical emergencies, call 911 immediately. Our services are not a substitute for emergency medical care.”
+}
+}

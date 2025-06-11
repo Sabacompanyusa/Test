@@ -1,0 +1,334 @@
+{
+“website”: {
+“name”: “Stay Dripped IV”,
+“tagline”: “Premium Mobile IV Therapy & Wellness”,
+“domain”: “https://staydrippediv.com”,
+“description”: “Premium mobile IV therapy in Scottsdale, AZ. Hangover recovery, immunity boost, NAD+ anti-aging treatments delivered to your door. Licensed professionals, same-day service.”,
+“keywords”: [“mobile IV therapy Scottsdale”, “IV hydration Arizona”, “hangover cure Scottsdale”, “NAD+ therapy”, “vitamin injections”, “mobile wellness”],
+“logo”: “https://staydrippediv.com/wp-content/uploads/2024/05/Stay-Dripped-IV-Logo.png”
+},
+“business_info”: {
+“type”: “MedicalBusiness”,
+“phone”: “(602) 688-9825”,
+“email”: “Info@staydrippedmobileiv.com”,
+“address”: {
+“locality”: “Scottsdale”,
+“region”: “AZ”,
+“country”: “US”
+},
+“coordinates”: {
+“latitude”: “33.4942”,
+“longitude”: “-111.9261”
+},
+“hours”: “Mo-Su 08:00-20:00”,
+“price_range”: “$99-$1200”,
+“service_area”: “Scottsdale, Arizona”
+},
+“social_media”: {
+“instagram”: “https://instagram.com/officialstaydrippediv”
+},
+“navigation”: [
+{
+“name”: “Home”,
+“url”: “index.html”,
+“active”: true
+},
+{
+“name”: “Menu”,
+“url”: “menu.html”
+},
+{
+“name”: “Mobile App”,
+“url”: “app.html”
+},
+{
+“name”: “Cart”,
+“url”: “cart.html”
+},
+{
+“name”: “Influencer”,
+“url”: “sponsor.html”
+},
+{
+“name”: “Book Now”,
+“url”: “#book”
+},
+{
+“name”: “Contact”,
+“url”: “#contact”
+}
+],
+“hero_section”: {
+“title”: “Premium Mobile IV Therapy in Arizona”,
+“description”: “Hydration, wellness, and recovery delivered straight to your door. Trusted by top performers, athletes, and everyday warriors across the Valley.”,
+“buttons”: [
+{
+“text”: “View Services”,
+“url”: “menu.html”,
+“type”: “primary”
+},
+{
+“text”: “Book Now”,
+“url”: “#book”,
+“type”: “secondary”
+}
+],
+“floating_card”: {
+“title”: “🏆 #1 Rated IV Therapy”,
+“subtitle”: “Trusted by 1000+ clients”
+}
+},
+“features”: [
+{
+“icon”: “🏠”,
+“title”: “Mobile Service”,
+“description”: “We come to you - home, office, hotel, or event”
+},
+{
+“icon”: “👩‍⚕️”,
+“title”: “Licensed Professionals”,
+“description”: “Registered nurses and certified medical practitioners”
+},
+{
+“icon”: “⚡”,
+“title”: “Fast Results”,
+“description”: “Feel the benefits within 30-60 minutes”
+},
+{
+“icon”: “🛡️”,
+“title”: “Safety First”,
+“description”: “Strict medical protocols and pharmaceutical-grade ingredients”
+}
+],
+“popular_treatments”: [
+{
+“name”: “Myers’ Cocktail”,
+“price”: 179,
+“description”: “The gold standard of IV therapy”,
+“category”: “specialty”
+},
+{
+“name”: “Hangover Relief”,
+“price”: 189,
+“description”: “Fast recovery from a night out”,
+“category”: “specialty”
+},
+{
+“name”: “NAD+ Anti-Aging”,
+“price”: 399,
+“description”: “Cellular regeneration therapy”,
+“category”: “premium”
+}
+],
+“service_areas”: [
+{
+“name”: “Scottsdale”,
+“description”: “Old Town, Paradise Valley, North Scottsdale”
+},
+{
+“name”: “Phoenix”,
+“description”: “Central Phoenix, Ahwatukee, Arcadia”
+},
+{
+“name”: “Tempe”,
+“description”: “ASU Area, Downtown Tempe”
+},
+{
+“name”: “Mesa”,
+“description”: “Downtown Mesa, East Mesa”
+}
+],
+“testimonials”: [
+{
+“text”: “Stay Dripped got me back on my feet after a brutal weekend. The hangover recovery treatment was a complete game changer. Professional service and felt amazing within an hour!”,
+“author”: “Jake T., Scottsdale”
+},
+{
+“text”: “Professional, fast, and the beauty drip gave me a real glow. The nurse was knowledgeable and made me feel completely comfortable. 10/10 would recommend to anyone!”,
+“author”: “Alisha M., Phoenix”
+},
+{
+“text”: “As an athlete, the Myers’ Cocktail has become part of my recovery routine. The convenience of having it done at home is unbeatable. Best investment in my health!”,
+“author”: “Marcus R., Tempe”
+}
+],
+“treatments”: {
+“basic_hydration”: [
+{
+“name”: “Rehydrate Basic IV Bag (500mL)”,
+“price”: 99,
+“duration”: “30-45 min”,
+“description”: “Simple, powerful, and effective. Rapidly restore hydration and essential nutrients — ideal for dehydration from workouts, travel, heat, or everyday life.”,
+“features”: [“500mL Saline”, “B-Complex Vitamins”]
+},
+{
+“name”: “Rehydrate Basic IV Bag (1000mL)”,
+“price”: 114,
+“duration”: “45-60 min”,
+“description”: “Stronger hydration, bigger recovery. Double the fluid volume with essential B-complex vitamins for enhanced energy, rehydration, and wellness.”,
+“features”: [“1000mL Saline”, “Enhanced B-Complex”]
+},
+{
+“name”: “Rehydrate Plus IV Bag (500mL)”,
+“price”: 129,
+“duration”: “30-45 min”,
+“description”: “Simple hydration plus enhanced vitamins for added recovery. Ideal for active individuals, post-travel, or intense heat exposure.”,
+“features”: [“500mL Enhanced”, “Premium Vitamins”]
+},
+{
+“name”: “Rehydrate Plus IV Bag (1000mL)”,
+“price”: 154,
+“duration”: “45-60 min”,
+“description”: “A full liter of hydration plus an extra boost of vitamins and minerals for deeper, longer-lasting recovery and energy support.”,
+“features”: [“1000mL Enhanced”, “Premium Formula”]
+}
+],
+“standard”: [
+{
+“name”: “Jr Myers’ Cocktail IV Bag”,
+“price”: 184,
+“duration”: “45 min”,
+“description”: “A lighter version of the Myers’ Cocktail, tailored for a quick boost of hydration and essential vitamins — perfect for first-timers or a gentle recharge.”,
+“features”: [“Vitamin C”, “B-Complex”]
+},
+{
+“name”: “Mental Clarity IV Bag”,
+“price”: 179,
+“duration”: “60 min”,
+“description”: “Sharpen your focus, memory, and cognition with our brain-boosting blend. Perfect for busy professionals, students, and anyone needing mental sharpness.”,
+“features”: [“Focus Enhancement”, “Cognitive Support”]
+},
+{
+“name”: “Weight Management Support IV Bag”,
+“price”: 204,
+“duration”: “45-60 min”,
+“description”: “Support your weight management journey with a powerful combination of MIC (lipotropic agents), carnitine, and metabolism-boosting vitamins.”,
+“features”: [“Metabolism Boost”, “MIC + Carnitine”]
+}
+],
+“specialty”: [
+{
+“name”: “Myers’ Cocktail IV Bag”,
+“price”: 179,
+“duration”: “45 min”,
+“description”: “Recharge and refresh with the original gold standard of IV therapy. Packed with essential vitamins and minerals to boost immunity, increase energy, and promote full-body wellness.”,
+“features”: [“Gold Standard”, “Immune Support”]
+},
+{
+“name”: “Mega Myers’ Cocktail IV Bag”,
+“price”: 199,
+“duration”: “60 min”,
+“description”: “Double the strength, double the benefits. Our Mega Myers delivers an ultra-potent dose of vitamins and antioxidants for serious immune support, energy enhancement, and recovery.”,
+“features”: [“Ultra-Potent”, “Double Strength”]
+},
+{
+“name”: “Day After The Dale Hangover Relief IV Bag”,
+“price”: 189,
+“duration”: “60 min”,
+“description”: “Bounce back fast with our ultimate hangover remedy. Hydration, vitamins, anti-nausea, and headache relief all in one — so you can feel human again, fast.”,
+“features”: [“Hangover Relief”, “Anti-Nausea”]
+},
+{
+“name”: “D-Book Athletic Performance Booster IV Bag”,
+“price”: 199,
+“duration”: “50 min”,
+“description”: “Fuel your body like a champion. This performance-enhancing IV delivers hydration, muscle recovery support, amino acids, and antioxidant power to maximize athletic output.”,
+“features”: [“Athletic Performance”, “Muscle Recovery”]
+}
+],
+“premium_nad”: [
+{
+“name”: “NAD+ 100mg IV Bag”,
+“price”: 399,
+“duration”: “2-3 hours”,
+“description”: “The ultimate anti-aging and cellular repair treatment. NAD+ supports energy production, DNA repair, and cognitive function at the cellular level.”,
+“features”: [“100mg NAD+”, “Anti-Aging”]
+},
+{
+“name”: “NAD+ 250mg IV Bag”,
+“price”: 699,
+“duration”: “3-4 hours”,
+“description”: “Enhanced NAD+ therapy for maximum cellular regeneration and longevity benefits. Perfect for serious anti-aging and performance optimization.”,
+“features”: [“250mg NAD+”, “Premium Anti-Aging”]
+},
+{
+“name”: “NAD+ 500mg IV Bag”,
+“price”: 1200,
+“duration”: “4-6 hours”,
+“description”: “The ultimate NAD+ experience for maximum longevity, cognitive enhancement, and cellular repair. Our most premium anti-aging treatment.”,
+“features”: [“500mg NAD+”, “Ultimate Anti-Aging”]
+}
+]
+},
+“contact_info”: [
+{
+“icon”: “📞”,
+“title”: “Call Us”,
+“value”: “(602) 688-9825”,
+“type”: “phone”
+},
+{
+“icon”: “✉️”,
+“title”: “Email Us”,
+“value”: “Info@staydrippedmobileiv.com”,
+“type”: “email”
+},
+{
+“icon”: “📱”,
+“title”: “Follow Us”,
+“value”: “@officialstaydrippediv”,
+“type”: “social”
+},
+{
+“icon”: “📍”,
+“title”: “Service Area”,
+“value”: “Scottsdale & Greater Phoenix, AZ”,
+“type”: “location”
+}
+],
+“booking”: {
+“main_url”: “https://Staydripped.intakeq.com/booking”,
+“widget_id”: “68460f36bc104b6aa9da43e0”,
+“platform”: “IntakeQ”
+},
+“analytics”: {
+“google_analytics”: “G-T9V90Q7G0M”
+},
+“third_party_integrations”: {
+“qualiphy_widget”: “https://firebasestorage.googleapis.com/v0/b/qualiphy-web-d918b.appspot.com/o/style-v4.css?alt=media&token=34735782-16e8-4a2f-9eaa-426d65af48b2”,
+“intakeq_booking”: “https://intakeq.com/js/widget.min.js?1”
+},
+“design_system”: {
+“primary_color”: “#00c6ff”,
+“primary_dark”: “#0072ff”,
+“accent_color”: “#00d4ff”,
+“text_colors”: {
+“dark”: “#2c3e50”,
+“light”: “#4a5568”,
+“muted”: “#718096”
+},
+“background_colors”: {
+“light”: “#f9f9f9”,
+“white”: “#ffffff”
+},
+“border_radius”: {
+“small”: “12px”,
+“large”: “20px”
+},
+“shadows”: {
+“default”: “0 4px 20px rgba(0, 106, 255, 0.1)”,
+“hover”: “0 8px 30px rgba(0, 106, 255, 0.15)”,
+“large”: “0 15px 35px rgba(0, 0, 0, 0.1)”
+}
+},
+“functionality”: {
+“cart_system”: true,
+“mobile_responsive”: true,
+“animations”: true,
+“smooth_scrolling”: true,
+“notifications”: true,
+“local_storage”: true,
+“keyboard_shortcuts”: true,
+“accessibility_features”: true
+}
+}

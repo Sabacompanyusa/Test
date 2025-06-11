@@ -1,0 +1,181 @@
+{
+“hero”: {
+“title”: “First-Time Patient Medical Clearance”,
+“subtitle”: “Good Faith Exam (GFE) Required”,
+“description”: “To comply with Arizona state regulations and ensure the safety and well-being of our clients, Stay Dripped IV requires all first-time patients to complete a Good Faith Exam (GFE) before receiving IV therapy treatments.”
+},
+“exam_overview”: {
+“title”: “What is a Good Faith Exam?”,
+“description”: “The GFE is a streamlined 3–5 minute telehealth assessment performed over video call from the comfort of your home. Once completed, your clearance is valid for 12 months unless significant changes to your medical history occur.”,
+“features”: [
+{
+“icon”: “⏱️”,
+“title”: “Quick Process”,
+“description”: “Only 3-5 minutes of your time”
+},
+{
+“icon”: “📱”,
+“title”: “Telehealth Convenience”,
+“description”: “Conducted via secure video call from home”
+},
+{
+“icon”: “📅”,
+“title”: “12-Month Validity”,
+“description”: “One exam covers you for a full year”
+},
+{
+“icon”: “🏥”,
+“title”: “State Compliant”,
+“description”: “Meets all Arizona regulatory requirements”
+}
+]
+},
+“process”: {
+“title”: “How It Works”,
+“steps”: [
+{
+“number”: “1”,
+“title”: “Schedule Your GFE”,
+“description”: “Click the link below to book your 5-minute telehealth appointment with our medical provider”,
+“duration”: “1 minute”
+},
+{
+“number”: “2”,
+“title”: “Complete Health Assessment”,
+“description”: “Join the video call and answer brief questions about your medical history and current health status”,
+“duration”: “3-5 minutes”
+},
+{
+“number”: “3”,
+“title”: “Receive Clearance”,
+“description”: “Upon approval, you’re cleared for IV therapy services for the next 12 months”,
+“duration”: “Immediate”
+},
+{
+“number”: “4”,
+“title”: “Book Your IV Treatment”,
+“description”: “Schedule your first IV therapy session and start feeling your best”,
+“duration”: “Ready to go!”
+}
+]
+},
+“requirements”: {
+“title”: “Exam Requirements”,
+“subtitle”: “What you’ll need for your Good Faith Exam”,
+“items”: [
+{
+“category”: “Technology Requirements”,
+“requirements”: [
+“Device with camera and microphone (smartphone, tablet, or computer)”,
+“Stable internet connection”,
+“Quiet, private location for the call”
+]
+},
+{
+“category”: “Personal Information”,
+“requirements”: [
+“Valid government-issued photo ID”,
+“Current medication list (if applicable)”,
+“Known allergies or medical conditions”,
+“Emergency contact information”
+]
+},
+{
+“category”: “Health History”,
+“requirements”: [
+“Previous IV therapy experience (if any)”,
+“Current health concerns or symptoms”,
+“Recent hospitalizations or surgeries”,
+“Pregnancy status (if applicable)”
+]
+}
+]
+},
+“medical_provider”: {
+“title”: “Our Medical Director”,
+“name”: “Dr. Jabari Reeves, MD”,
+“credentials”: [
+“Board-certified physician”,
+“Licensed in Arizona”,
+“Specialist in IV therapy and wellness medicine”,
+“Years of experience in telehealth consultations”
+],
+“description”: “Dr. Reeves oversees all medical protocols and ensures the highest standards of patient care and safety.”
+},
+“faqs”: {
+“title”: “Frequently Asked Questions”,
+“questions”: [
+{
+“question”: “Why is a Good Faith Exam required?”,
+“answer”: “Arizona state law requires a physician-patient relationship be established before IV therapy can be administered. The GFE fulfills this legal requirement while ensuring your safety.”
+},
+{
+“question”: “How much does the GFE cost?”,
+“answer”: “The Good Faith Exam is included at no additional cost as part of our commitment to safe, compliant medical care.”
+},
+{
+“question”: “What if I don’t pass the exam?”,
+“answer”: “If any contraindications are identified, our medical provider will discuss alternative options or refer you to your primary care physician for further evaluation.”
+},
+{
+“question”: “Can I complete the exam on the same day as my IV treatment?”,
+“answer”: “Yes! We can often schedule your GFE and first IV session back-to-back for maximum convenience.”
+},
+{
+“question”: “Is my medical information secure?”,
+“answer”: “Absolutely. We use HIPAA-compliant telehealth platforms and maintain strict confidentiality of all medical records.”
+},
+{
+“question”: “What happens after 12 months?”,
+“answer”: “You’ll need to complete a brief renewal assessment, which is typically even shorter than the initial exam.”
+},
+{
+“question”: “Can I get IV therapy without the exam?”,
+“answer”: “No, Arizona law requires medical clearance for all IV therapy patients. This ensures your safety and our compliance with state regulations.”
+}
+]
+},
+“booking_info”: {
+“title”: “Ready to Get Started?”,
+“description”: “Complete your required medical clearance today and start your wellness journey with Stay Dripped IV.”,
+“provider”: “Qualiphy Telehealth Platform”,
+“booking_url”: “https://book.qualiphy.me/staydrippediv/gfe”,
+“availability”: {
+“weekdays”: “7:00 AM - 7:00 PM”,
+“weekends”: “9:00 AM - 5:00 PM”,
+“same_day”: “Often available”
+}
+},
+“after_clearance”: {
+“title”: “After Your Clearance”,
+“subtitle”: “What’s next once you’re approved?”,
+“benefits”: [
+“Immediate eligibility for all IV therapy services”,
+“12-month clearance validity”,
+“Priority booking as an established patient”,
+“Access to membership programs and VIP services”,
+“Personalized treatment recommendations”
+],
+“next_steps”: [
+{
+“step”: “Browse our full menu of IV treatments”,
+“action”: “View Services”
+},
+{
+“step”: “Schedule your first IV therapy session”,
+“action”: “Book Treatment”
+},
+{
+“step”: “Consider our VIP membership programs”,
+“action”: “Learn More”
+}
+]
+},
+“contact”: {
+“title”: “Questions About the GFE?”,
+“subtitle”: “Our team is here to help”,
+“phone”: “(602) 761-0492”,
+“email”: “hello@staydrippediv.com”,
+“note”: “Call or text us with any questions about the Good Faith Exam process or to schedule assistance.”
+}
+}

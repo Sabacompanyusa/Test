@@ -1,0 +1,368 @@
+{
+“hero”: {
+“title”: “VIP Membership Programs”,
+“subtitle”: “Exclusive access to premium IV therapy with unbeatable value”,
+“description”: “Join our VIP membership program and enjoy priority booking, exclusive discounts, and premium perks designed for your wellness journey.”
+},
+“memberships”: {
+“title”: “Choose Your Membership Level”,
+“subtitle”: “Tailored benefits for every wellness need”,
+“tiers”: [
+{
+“id”: “platinum”,
+“name”: “Platinum VIP”,
+“price”: 299,
+“billing”: “monthly”,
+“badge”: “Most Popular”,
+“color”: “platinum”,
+“description”: “Ultimate wellness experience with maximum benefits”,
+“features”: [
+“Any premium IV treatment (including NAD+ therapies)”,
+“2 complimentary add-ons per visit”,
+“Priority booking and same-day availability”,
+“25% off additional treatments”,
+“Complimentary Good Faith Exam renewal”,
+“Free mobile service (no travel fees)”,
+“Quarterly wellness consultations”,
+“Exclusive member-only treatments”,
+“24/7 concierge support”,
+“Guest passes at member pricing”
+],
+“includes”: [
+“1 Premium IV per month (up to $525 value)”,
+“2 Add-ons included (up to $70 value)”,
+“Mobile service included (up to $50 value)”
+],
+“savings”: “Save up to $346 per month”,
+“ideal_for”: [“Executives”, “Athletes”, “Frequent travelers”, “Wellness enthusiasts”]
+},
+{
+“id”: “gold”,
+“name”: “Gold VIP”,
+“price”: 199,
+“billing”: “monthly”,
+“badge”: “Best Value”,
+“color”: “gold”,
+“description”: “Premium wellness benefits with excellent value”,
+“features”: [
+“Any standard IV treatment (excluding NAD+ therapies)”,
+“1 complimentary add-on per visit”,
+“Priority booking”,
+“20% off additional treatments”,
+“20% off NAD+ therapy upgrades”,
+“Free mobile service within primary zones”,
+“Monthly wellness check-ins”,
+“Member-exclusive promotions”,
+“Flexible scheduling options”
+],
+“includes”: [
+“1 Standard IV per month (up to $355 value)”,
+“1 Add-on included (up to $35 value)”,
+“Mobile service included (up to $50 value)”
+],
+“savings”: “Save up to $241 per month”,
+“ideal_for”: [“Health-conscious individuals”, “Busy professionals”, “Regular users”]
+},
+{
+“id”: “silver”,
+“name”: “Silver VIP”,
+“price”: 129,
+“billing”: “monthly”,
+“badge”: “Great Starter”,
+“color”: “silver”,
+“description”: “Perfect introduction to VIP wellness benefits”,
+“features”: [
+“Any basic to intermediate IV treatment”,
+“15% off additional treatments”,
+“15% off all add-ons”,
+“Priority booking during off-peak hours”,
+“Member pricing on mobile service”,
+“Quarterly wellness newsletters”,
+“Birthday month special offers”
+],
+“includes”: [
+“1 Basic-Intermediate IV per month (up to $245 value)”,
+“Member pricing on all services”
+],
+“savings”: “Save up to $116 per month”,
+“ideal_for”: [“First-time members”, “Occasional users”, “Budget-conscious wellness”]
+},
+{
+“id”: “corporate”,
+“name”: “Corporate Wellness”,
+“price”: “Custom”,
+“billing”: “annual”,
+“badge”: “Enterprise”,
+“color”: “corporate”,
+“description”: “Comprehensive wellness programs for teams and organizations”,
+“features”: [
+“Customized treatment packages”,
+“On-site corporate services”,
+“Group booking discounts”,
+“Executive health assessments”,
+“Wellness program reporting”,
+“Dedicated account management”,
+“Flexible billing options”,
+“Employee wellness education”
+],
+“includes”: [
+“Custom treatment allocations”,
+“On-site service included”,
+“Comprehensive wellness reporting”
+],
+“savings”: “Volume discounts up to 30%”,
+“ideal_for”: [“Companies”, “Executive teams”, “HR departments”, “Employee wellness programs”]
+}
+]
+},
+“membership_benefits”: {
+“title”: “Exclusive Member Benefits”,
+“subtitle”: “More than just IV therapy - it’s a lifestyle”,
+“categories”: [
+{
+“title”: “Priority Access”,
+“icon”: “⚡”,
+“benefits”: [
+“Same-day booking availability”,
+“Priority scheduling during peak times”,
+“Exclusive member-only time slots”,
+“24/7 online booking access”,
+“Concierge booking support”
+]
+},
+{
+“title”: “Financial Savings”,
+“icon”: “💰”,
+“benefits”: [
+“Significant monthly savings”,
+“Discounted additional treatments”,
+“Free or reduced mobile service fees”,
+“Complimentary add-ons included”,
+“No price increases during membership”
+]
+},
+{
+“title”: “Wellness Support”,
+“icon”: “🏥”,
+“benefits”: [
+“Personalized treatment recommendations”,
+“Wellness progress tracking”,
+“Quarterly health consultations”,
+“Educational resources and content”,
+“Direct access to medical team”
+]
+},
+{
+“title”: “Exclusive Perks”,
+“icon”: “🌟”,
+“benefits”: [
+“Member-only treatment options”,
+“Early access to new services”,
+“Exclusive events and workshops”,
+“Partner discounts and offers”,
+“Gift membership options”
+]
+}
+]
+},
+“comparison”: {
+“title”: “Membership Comparison”,
+“subtitle”: “Find the perfect fit for your wellness goals”,
+“features”: [
+{
+“feature”: “Monthly IV Treatment Included”,
+“silver”: “Basic-Intermediate (up to $245)”,
+“gold”: “Standard (up to $355)”,
+“platinum”: “Premium (up to $525)”,
+“corporate”: “Custom Allocation”
+},
+{
+“feature”: “Add-Ons Included”,
+“silver”: “None (15% off)”,
+“gold”: “1 Add-on ($35 value)”,
+“platinum”: “2 Add-ons ($70 value)”,
+“corporate”: “Negotiated Package”
+},
+{
+“feature”: “Discount on Additional Treatments”,
+“silver”: “15% off”,
+“gold”: “20% off”,
+“platinum”: “25% off”,
+“corporate”: “Volume Pricing”
+},
+{
+“feature”: “Mobile Service”,
+“silver”: “Member Pricing”,
+“gold”: “Free (Primary Zones)”,
+“platinum”: “Free (All Areas)”,
+“corporate”: “On-site Included”
+},
+{
+“feature”: “Priority Booking”,
+“silver”: “Off-peak Priority”,
+“gold”: “Standard Priority”,
+“platinum”: “Highest Priority”,
+“corporate”: “Dedicated Support”
+},
+{
+“feature”: “NAD+ Therapy Access”,
+“silver”: “15% member discount”,
+“gold”: “20% member discount”,
+“platinum”: “Included in monthly benefit”,
+“corporate”: “Custom Options”
+},
+{
+“feature”: “Wellness Consultations”,
+“silver”: “Newsletter Updates”,
+“gold”: “Monthly Check-ins”,
+“platinum”: “Quarterly Consultations”,
+“corporate”: “Executive Assessments”
+}
+]
+},
+“faq”: {
+“title”: “Membership FAQ”,
+“questions”: [
+{
+“question”: “Can I change my membership level?”,
+“answer”: “Yes! You can upgrade or downgrade your membership at any time. Changes take effect at your next billing cycle, and we’ll prorate any differences.”
+},
+{
+“question”: “What happens to unused treatments?”,
+“answer”: “Unused monthly treatments roll over for up to 2 months, giving you flexibility in your wellness routine. After 2 months, unused treatments expire.”
+},
+{
+“question”: “Can I share my membership benefits?”,
+“answer”: “Memberships are personal and non-transferable. However, Platinum members receive guest passes that allow friends and family to book at member pricing.”
+},
+{
+“question”: “Is there a contract or commitment?”,
+“answer”: “No long-term contracts required! All memberships are month-to-month and can be cancelled with 30 days notice.”
+},
+{
+“question”: “Do you offer family or couple memberships?”,
+“answer”: “Yes! We offer 10% discounts for multiple family members and special couple packages. Contact us for custom family pricing.”
+},
+{
+“question”: “What if I need to pause my membership?”,
+“answer”: “We offer membership freezes for up to 3 months per year for vacation, medical reasons, or other circumstances. Just give us 7 days notice.”
+}
+]
+},
+“testimonials”: {
+“title”: “Member Success Stories”,
+“reviews”: [
+{
+“name”: “Sarah K.”,
+“membership”: “Platinum VIP”,
+“rating”: 5,
+“text”: “The Platinum membership has been a game-changer for my busy lifestyle. Priority booking means I can always get in when I need to, and the monthly NAD+ treatments have given me incredible energy.”,
+“location”: “Scottsdale, AZ”
+},
+{
+“name”: “Michael R.”,
+“membership”: “Gold VIP”,
+“rating”: 5,
+“text”: “Best investment in my health! The Gold membership saves me hundreds each month, and the priority booking is perfect for my unpredictable schedule.”,
+“location”: “Phoenix, AZ”
+},
+{
+“name”: “Jennifer L.”,
+“membership”: “Silver VIP”,
+“rating”: 5,
+“text”: “Perfect starter membership! I love having the flexibility and member pricing. Already planning to upgrade to Gold next month.”,
+“location”: “Paradise Valley, AZ”
+}
+]
+},
+“pricing_details”: {
+“billing”: {
+“frequency”: “Monthly automatic billing”,
+“payment_methods”: [“Credit Card”, “Debit Card”, “ACH Bank Transfer”],
+“currency”: “USD”,
+“tax_note”: “Prices shown exclude applicable taxes”
+},
+“cancellation”: {
+“policy”: “Cancel anytime with 30 days written notice”,
+“unused_benefits”: “Unused treatments can be used within 30 days of cancellation”,
+“refund_policy”: “No refunds on monthly membership fees”
+},
+“upgrades”: {
+“policy”: “Upgrade anytime - changes take effect immediately”,
+“downgrade_policy”: “Downgrades take effect at next billing cycle”,
+“proration”: “We prorate all membership changes”
+}
+},
+“corporate_details”: {
+“title”: “Corporate Wellness Programs”,
+“subtitle”: “Invest in your team’s health and productivity”,
+“benefits”: [
+“Reduced healthcare costs”,
+“Improved employee wellness”,
+“Enhanced productivity and morale”,
+“Reduced sick days and absenteeism”,
+“Attractive employee benefit”
+],
+“packages”: [
+{
+“name”: “Startup Package”,
+“employees”: “1-25 employees”,
+“features”: [
+“Monthly team wellness sessions”,
+“On-site service available”,
+“Flexible scheduling”,
+“Basic wellness reporting”
+],
+“starting_price”: “$2,500/month”
+},
+{
+“name”: “Growth Package”,
+“employees”: “26-100 employees”,
+“features”: [
+“Comprehensive wellness program”,
+“Executive health assessments”,
+“Detailed wellness analytics”,
+“Dedicated account manager”
+],
+“starting_price”: “$7,500/month”
+},
+{
+“name”: “Enterprise Package”,
+“employees”: “100+ employees”,
+“features”: [
+“Full-scale wellness integration”,
+“Multiple location support”,
+“Custom treatment protocols”,
+“C-suite wellness programs”
+],
+“starting_price”: “Custom pricing”
+}
+]
+},
+“enrollment”: {
+“title”: “Ready to Join?”,
+“subtitle”: “Start your VIP wellness journey today”,
+“process”: [
+{
+“step”: 1,
+“title”: “Choose Your Level”,
+“description”: “Select the membership tier that fits your wellness goals and lifestyle”
+},
+{
+“step”: 2,
+“title”: “Complete Enrollment”,
+“description”: “Fill out our simple enrollment form and complete your Good Faith Exam if needed”
+},
+{
+“step”: 3,
+“title”: “Book Your First Treatment”,
+“description”: “Schedule your first VIP treatment and experience the Stay Dripped difference”
+}
+],
+“contact”: {
+“phone”: “(602) 761-0492”,
+“email”: “hello@staydrippediv.com”,
+“booking_url”: “https://Staydrippediv.intakeq.com/booking”
+}
+}
+}

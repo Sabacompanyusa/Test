@@ -1,0 +1,264 @@
+{
+“website”: {
+“name”: “Stay Dripped IV Therapy”,
+“tagline”: “Elite Mobile IV Therapy - Where Performance Meets Wellness”,
+“version”: “1.0.0”,
+“lastUpdated”: “2025-06-10”,
+“status”: “production-ready”
+},
+“business”: {
+“legalName”: “Stay Dripped IV Therapy LLC”,
+“founded”: “2025”,
+“headquarters”: “Scottsdale, Arizona”,
+“businessType”: “Mobile Healthcare Services”,
+“license”: “AZ-MED-2025-1247”
+},
+“founder”: {
+“name”: “Matthew Saba”,
+“title”: “Founder & CEO”,
+“background”: “Arizona native, ASU graduate (B.S. Biological Sciences), All-Arizona State Wrestler, MMA & Jiu Jitsu Fighter, Former Medical Sales Professional Manager”,
+“philosophy”: “Combining athletic performance knowledge with medical science to deliver elite wellness solutions”
+},
+“medicalDirector”: {
+“name”: “Dr. Jabari Reeves”,
+“title”: “Chief Medical Officer”,
+“credentials”: “MD, Board Certified Emergency Medicine”,
+“experience”: “12+ years emergency medicine”
+},
+“contact”: {
+“phone”: “(602) 688-9825”,
+“fax”: “(602) 761-0492”,
+“email”: “info@staydripediv.com”,
+“address”: {
+“street”: “1731 E Verde Ln”,
+“city”: “Phoenix”,
+“state”: “AZ”,
+“zipCode”: “85016”
+}
+},
+“serviceModel”: {
+“type”: “Mobile-Only”,
+“description”: “100% mobile IV therapy service - no physical clinic location”,
+“serviceAreas”: [
+“Central Phoenix (no travel fee)”,
+“Scottsdale ($25 travel fee)”,
+“East Valley ($35 travel fee)”,
+“West Valley ($45 travel fee)”,
+“Extended Phoenix Area ($65 travel fee)”
+],
+“hours”: {
+“weekdays”: “7:00 AM - 10:00 PM”,
+“friday”: “7:00 AM - 11:00 PM”,
+“saturday”: “8:00 AM - 11:00 PM”,
+“sunday”: “9:00 AM - 9:00 PM”
+},
+“emergency”: “24/7 emergency service available”
+},
+“dataFiles”: {
+“core”: [
+{
+“file”: “services.json”,
+“description”: “Complete IV therapy menu with real pricing”,
+“categories”: 5,
+“totalServices”: 23,
+“priceRange”: “$99 - $499”
+},
+{
+“file”: “about.json”,
+“description”: “Company story, team information, and founder background”,
+“sections”: [“company”, “story”, “team”, “locations”, “achievements”, “philosophy”]
+},
+{
+“file”: “contact.json”,
+“description”: “Mobile service contact information and business hours”,
+“sections”: [“businessHeadquarters”, “mobileService”, “customerService”, “socialMedia”]
+}
+],
+“business”: [
+{
+“file”: “memberships.json”,
+“description”: “VIP membership tiers with pricing and benefits”,
+“tiers”: 3,
+“priceRange”: “$89 - $249/month”
+},
+{
+“file”: “corporate-events.json”,
+“description”: “Corporate wellness packages and event services”,
+“packages”: 4,
+“industries”: 4
+},
+{
+“file”: “checkout.json”,
+“description”: “Payment methods, security features, and billing”,
+“paymentMethods”: 8,
+“securityCertifications”: 4
+}
+],
+“marketing”: [
+{
+“file”: “sponsorships.json”,
+“description”: “Brand ambassador programs and partnership opportunities”,
+“programs”: 3,
+“tiers”: 3
+},
+{
+“file”: “testimonials.json”,
+“description”: “Customer reviews and feedback management system”,
+“platforms”: 4,
+“featuredReviews”: 6,
+“averageRating”: 4.85
+}
+],
+“technical”: [
+{
+“file”: “config.json”,
+“description”: “Website configuration and technical settings”,
+“sections”: [“branding”, “features”, “integrations”, “security”]
+}
+]
+},
+“menu”: {
+“categories”: [
+{
+“name”: “Basic Hydration”,
+“services”: 3,
+“priceRange”: “$99 - $119”
+},
+{
+“name”: “Standard Treatments”,
+“services”: 8,
+“priceRange”: “$179 - $234”
+},
+{
+“name”: “Specialty Treatments”,
+“services”: 5,
+“priceRange”: “$199 - $289”
+},
+{
+“name”: “Premium & Recovery”,
+“services”: 4,
+“priceRange”: “$230 - $349”
+},
+{
+“name”: “NAD+ Anti-Aging Therapy”,
+“services”: 4,
+“priceRange”: “$399 - $499”
+}
+],
+“popularTreatments”: [
+“Myers’ Cocktail IV Bag ($204)”,
+“Day After Scottsdale Hangover Recovery ($204)”,
+“D-Book Athletic Performance Booster ($224)”,
+“Scottsdale 10 Beauty Boost ($229)”,
+“Stay Dripped Special ($324)”
+],
+“addOns”: {
+“vitaminShots”: 5,
+“premiumAddOns”: 5,
+“priceRange”: “$25 - $50”
+}
+},
+“competitive”: {
+“advantages”: [
+“Founded by elite athlete with medical sales expertise”,
+“100% mobile service - no clinic visits required”,
+“Arizona-specific branding and service areas”,
+“Athletic performance focus”,
+“Licensed medical director oversight”,
+“Real-time emergency availability”
+],
+“targetMarket”: [
+“Athletes and fitness enthusiasts”,
+“Busy professionals”,
+“Scottsdale nightlife recovery”,
+“Corporate wellness programs”,
+“Health-conscious individuals”,
+“Phoenix metro residents and tourists”
+]
+},
+“implementation”: {
+“status”: “Complete”,
+“readyForDevelopment”: true,
+“dataCompleteness”: “100%”,
+“businessReadiness”: “Production-ready”,
+“technicalReadiness”: “Full implementation ready”
+},
+“features”: {
+“booking”: {
+“online”: true,
+“mobile”: true,
+“phone”: true,
+“minimumNotice”: “2 hours”
+},
+“payments”: {
+“creditCards”: true,
+“digitalWallets”: true,
+“healthAccounts”: true,
+“financing”: true
+},
+“membership”: {
+“tiers”: 3,
+“benefits”: “Discounts, priority booking, exclusive access”,
+“flexibility”: “Pause, cancel anytime”
+},
+“corporate”: {
+“wellness”: true,
+“events”: true,
+“teamBuilding”: true,
+“executivePrograms”: true
+}
+},
+“compliance”: {
+“medical”: {
+“arizonaLicensed”: true,
+“hipaaCompliant”: true,
+“medicalDirectorOversight”: true,
+“licensedNurses”: true
+},
+“business”: {
+“llcRegistered”: true,
+“businessInsurance”: true,
+“malpracticeInsurance”: true,
+“arizona”: true
+}
+},
+“marketing”: {
+“branding”: {
+“colors”: [”#2C5F7B”, “#4A90A4”, “#87CEEB”],
+“fonts”: [“Montserrat”, “Open Sans”],
+“tone”: “Professional, athletic, wellness-focused”
+},
+“channels”: [
+“Social media (Instagram, TikTok, Facebook)”,
+“Google Business & Ads”,
+“Athletic partnerships”,
+“Corporate wellness programs”,
+“Referral programs”
+],
+“uniqueSellingPoints”: [
+“Founded by All-State wrestler and MMA fighter”,
+“Mobile-only convenience”,
+“Athletic performance specialization”,
+“Arizona native-owned and operated”,
+“Emergency 24/7 availability”
+]
+},
+“growth”: {
+“phase1”: “Phoenix metro expansion”,
+“phase2”: “Additional Arizona markets”,
+“phase3”: “Franchise opportunities”,
+“partnerships”: [
+“ASU Athletics”,
+“Scottsdale nightlife venues”,
+“Phoenix sports teams”,
+“Corporate wellness programs”
+]
+},
+“technology”: {
+“website”: “Complete data structure”,
+“booking”: “Integration-ready”,
+“payments”: “Multi-platform support”,
+“mobile”: “Responsive design ready”,
+“analytics”: “Tracking configured”
+}
+}

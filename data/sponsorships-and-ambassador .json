@@ -1,0 +1,418 @@
+{
+“brandAmbassadorProgram”: {
+“title”: “Stay Dripped Brand Ambassador Program”,
+“description”: “Join our exclusive community of wellness advocates and earn rewards while promoting optimal health”,
+“tiers”: [
+{
+“id”: “wellness-advocate”,
+“name”: “Wellness Advocate”,
+“level”: 1,
+“requirements”: {
+“followers”: 1000,
+“engagement”: “3%”,
+“content”: “Health/wellness focused”,
+“location”: “Arizona based”
+},
+“benefits”: [
+“25% discount on all services”,
+“Free monthly IV session”,
+“Exclusive ambassador merchandise”,
+“Early access to new treatments”,
+“Commission on referrals (10%)”,
+“Ambassador-only events”
+],
+“responsibilities”: [
+“2 social posts per month”,
+“Share authentic experiences”,
+“Use branded hashtags”,
+“Attend quarterly events”,
+“Provide feedback on services”
+],
+“commission”: {
+“rate”: 10,
+“minimum”: 25,
+“paymentTerms”: “Monthly via PayPal or direct deposit”
+}
+},
+{
+“id”: “influencer-partner”,
+“name”: “Influencer Partner”,
+“level”: 2,
+“requirements”: {
+“followers”: 10000,
+“engagement”: “5%”,
+“content”: “Health/wellness/lifestyle focused”,
+“location”: “Southwest US”
+},
+“benefits”: [
+“40% discount on all services”,
+“Free weekly IV sessions”,
+“Custom treatment plans”,
+“Professional photo/video content”,
+“Commission on referrals (15%)”,
+“VIP lounge access”,
+“Exclusive ambassador events”,
+“Co-marketing opportunities”
+],
+“responsibilities”: [
+“4 social posts per month”,
+“1 detailed blog post/video monthly”,
+“Attend monthly check-ins”,
+“Participate in campaigns”,
+“Share customer testimonials”
+],
+“commission”: {
+“rate”: 15,
+“minimum”: 50,
+“paymentTerms”: “Monthly via preferred method”
+}
+},
+{
+“id”: “brand-partner”,
+“name”: “Brand Partner”,
+“level”: 3,
+“requirements”: {
+“followers”: 50000,
+“engagement”: “7%”,
+“content”: “Established wellness authority”,
+“location”: “National reach”
+},
+“benefits”: [
+“Complimentary all services”,
+“Unlimited IV sessions”,
+“Personalized treatment protocols”,
+“Professional content creation team”,
+“Commission on referrals (20%)”,
+“Revenue sharing opportunities”,
+“Co-branded merchandise”,
+“Speaking opportunities”
+],
+“responsibilities”: [
+“8 social posts per month”,
+“Weekly content creation”,
+“Attend brand events”,
+“Participate in PR campaigns”,
+“Provide strategic feedback”
+],
+“commission”: {
+“rate”: 20,
+“minimum”: 100,
+“paymentTerms”: “Monthly with bonus opportunities”
+}
+}
+]
+},
+“corporatePartnerships”: {
+“title”: “Corporate Partnership Opportunities”,
+“description”: “Strategic partnerships with businesses that align with our wellness mission”,
+“partnershipTypes”: [
+{
+“type”: “Wellness Centers”,
+“description”: “Gyms, spas, and wellness facilities”,
+“benefits”: [
+“Cross-referral program”,
+“Shared marketing initiatives”,
+“Bundled service packages”,
+“Joint wellness events”
+],
+“requirements”: [
+“Established wellness business”,
+“Complementary services”,
+“Shared target audience”,
+“Professional reputation”
+]
+},
+{
+“type”: “Healthcare Providers”,
+“description”: “Medical practices and healthcare facilities”,
+“benefits”: [
+“Professional referral network”,
+“Continuing education opportunities”,
+“Collaborative care protocols”,
+“Shared resources”
+],
+“requirements”: [
+“Licensed healthcare provider”,
+“Integrative medicine focus”,
+“Patient-centered approach”,
+“Quality certifications”
+]
+},
+{
+“type”: “Corporate Wellness”,
+“description”: “Employee wellness program partners”,
+“benefits”: [
+“Preferred vendor status”,
+“Volume discounts”,
+“Custom program development”,
+“Outcome tracking”
+],
+“requirements”: [
+“Established business”,
+“Employee wellness focus”,
+“Commitment to health outcomes”,
+“Professional references”
+]
+},
+{
+“type”: “Event Partnerships”,
+“description”: “Wellness events and conferences”,
+“benefits”: [
+“Event sponsorship opportunities”,
+“Booth space at events”,
+“Speaking opportunities”,
+“Attendee wellness services”
+],
+“requirements”: [
+“Health-focused events”,
+“Professional organization”,
+“Audience alignment”,
+“Brand compatibility”
+]
+}
+]
+},
+“affiliateProgram”: {
+“title”: “Stay Dripped Affiliate Program”,
+“description”: “Earn commissions by referring customers to our wellness services”,
+“tiers”: [
+{
+“level”: “Starter”,
+“referralsRequired”: 0,
+“commission”: 8,
+“benefits”: [
+“8% commission on referrals”,
+“Marketing materials provided”,
+“Real-time tracking dashboard”,
+“Monthly payment”
+]
+},
+{
+“level”: “Advanced”,
+“referralsRequired”: 25,
+“commission”: 12,
+“benefits”: [
+“12% commission on referrals”,
+“Priority support”,
+“Custom landing pages”,
+“Bi-weekly payment options”
+]
+},
+{
+“level”: “Elite”,
+“referralsRequired”: 100,
+“commission”: 15,
+“benefits”: [
+“15% commission on referrals”,
+“Dedicated account manager”,
+“Co-marketing opportunities”,
+“Weekly payment options”
+]
+}
+],
+“requirements”: {
+“minimum”: “18 years old”,
+“location”: “US residents only”,
+“compliance”: “Follow FTC guidelines”,
+“content”: “Accurate service representation”
+},
+“paymentTerms”: {
+“minimum”: 50,
+“schedule”: “Monthly on the 15th”,
+“methods”: [“PayPal”, “Direct deposit”, “Check”],
+“tracking”: “Real-time commission tracking”
+}
+},
+“professionalReferrals”: {
+“title”: “Professional Referral Network”,
+“description”: “Healthcare and wellness professionals referring patients and clients”,
+“eligibility”: [
+“Licensed healthcare providers”,
+“Certified wellness professionals”,
+“Registered dietitians”,
+“Fitness professionals”,
+“Mental health counselors”
+],
+“benefits”: [
+{
+“benefit”: “Referral Fees”,
+“description”: “Earn $25-50 per successful referral based on service”
+},
+{
+“benefit”: “Continuing Education”,
+“description”: “Free IV therapy education and certification”
+},
+{
+“benefit”: “Professional Network”,
+“description”: “Access to our network of healthcare providers”
+},
+{
+“benefit”: “Patient Care”,
+“description”: “Enhanced treatment options for your patients”
+}
+],
+“referralFees”: [
+{
+“service”: “Basic IV Therapy”,
+“fee”: 25,
+“description”: “Hydration and basic wellness IVs”
+},
+{
+“service”: “Specialty Treatments”,
+“fee”: 40,
+“description”: “NAD+, high-dose vitamin C, specialty blends”
+},
+{
+“service”: “Membership Signup”,
+“fee”: 50,
+“description”: “New membership enrollments”
+},
+{
+“service”: “Corporate Packages”,
+“fee”: 100,
+“description”: “Corporate wellness program referrals”
+}
+]
+},
+“currentPartners”: [
+{
+“name”: “Phoenix Fitness Academy”,
+“type”: “Gym Partnership”,
+“description”: “Premier fitness facility offering recovery IVs for members”,
+“partnership”: “Cross-referral and on-site services”
+},
+{
+“name”: “Desert Wellness Spa”,
+“type”: “Spa Partnership”,
+“description”: “Luxury spa featuring IV therapy as premium add-on”,
+“partnership”: “Exclusive IV therapy provider”
+},
+{
+“name”: “Arizona Integrative Medicine”,
+“type”: “Healthcare Partnership”,
+“description”: “Integrative medical practice with IV therapy referrals”,
+“partnership”: “Professional referral network”
+},
+{
+“name”: “Scottsdale Marathon”,
+“type”: “Event Partnership”,
+“description”: “Official IV therapy provider for marathon events”,
+“partnership”: “Event sponsorship and on-site services”
+}
+],
+“applicationProcess”: {
+“steps”: [
+{
+“step”: 1,
+“title”: “Submit Application”,
+“description”: “Complete online application with social media links”
+},
+{
+“step”: 2,
+“title”: “Review Process”,
+“description”: “Our team reviews your application and social presence”
+},
+{
+“step”: 3,
+“title”: “Interview”,
+“description”: “Brief phone/video interview to discuss partnership”
+},
+{
+“step”: 4,
+“title”: “Approval”,
+“description”: “Approval notification and welcome package”
+},
+{
+“step”: 5,
+“title”: “Onboarding”,
+“description”: “Training, materials, and account setup”
+}
+],
+“timeline”: “7-14 business days”,
+“requirements”: {
+“portfolio”: “Examples of previous brand partnerships”,
+“metrics”: “Engagement rates and audience demographics”,
+“references”: “Professional references or testimonials”
+}
+},
+“marketing”: {
+“materials”: [
+{
+“type”: “Digital Assets”,
+“items”: [
+“High-resolution logos”,
+“Social media templates”,
+“Instagram story templates”,
+“Video content guidelines”
+]
+},
+{
+“type”: “Print Materials”,
+“items”: [
+“Business cards”,
+“Brochures”,
+“Referral cards”,
+“Branded merchandise”
+]
+},
+{
+“type”: “Content Support”,
+“items”: [
+“Blog post templates”,
+“Email newsletter content”,
+“Social media captions”,
+“Video script templates”
+]
+}
+],
+“guidelines”: {
+“brandColors”: [”#2C5F7B”, “#4A90A4”, “#87CEEB”],
+“fonts”: [“Montserrat”, “Open Sans”],
+“tone”: “Professional, caring, wellness-focused”,
+“hashtags”: [”#StayDripped”, “#IVTherapy”, “#WellnessJourney”, “#PhoenixWellness”]
+}
+},
+“performance”: {
+“tracking”: {
+“metrics”: [
+“Referral conversions”,
+“Social media engagement”,
+“Content performance”,
+“Revenue generated”
+],
+“reporting”: “Monthly performance reports”,
+“dashboard”: “Real-time analytics dashboard”
+},
+“incentives”: {
+“monthly”: “Top performer recognition”,
+“quarterly”: “Performance bonuses”,
+“annual”: “Exclusive retreat invitations”
+}
+},
+“compliance”: {
+“requirements”: [
+“FTC disclosure requirements”,
+“Honest product representation”,
+“HIPAA compliance for testimonials”,
+“Social media platform guidelines”
+],
+“training”: [
+“Legal compliance training”,
+“Product knowledge certification”,
+“Brand representation guidelines”,
+“Customer service standards”
+]
+},
+“contact”: {
+“partnerships”: {
+“email”: “partnerships@staydrippedmobileiv.com”,
+“phone”: “(602) 688-9825”,
+“contact”: “Maria Rodriguez, Partnership Director”
+},
+“ambassador”: {
+“email”: “info@staydrippedmobileiv.com
+“phone”: “(602) 688-9825”,
+“contact”: “Jessica Chen, Brand Ambassador Manager”
+}
+}
+}

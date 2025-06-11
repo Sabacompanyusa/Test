@@ -1,0 +1,363 @@
+{
+“paymentMethods”: [
+{
+“id”: “credit-card”,
+“name”: “Credit/Debit Card”,
+“type”: “card”,
+“icon”: “💳”,
+“popular”: true,
+“acceptedCards”: [
+“Visa”,
+“Mastercard”,
+“American Express”,
+“Discover”
+],
+“processingFee”: 0,
+“description”: “Secure payment with any major credit or debit card”,
+“features”: [
+“Instant payment processing”,
+“Automatic receipt via email”,
+“Saved payment methods”,
+“Fraud protection included”
+]
+},
+{
+“id”: “apple-pay”,
+“name”: “Apple Pay”,
+“type”: “digital_wallet”,
+“icon”: “🍎”,
+“popular”: true,
+“processingFee”: 0,
+“description”: “Quick and secure payment with Touch ID or Face ID”,
+“features”: [
+“One-touch payment”,
+“Enhanced security”,
+“No card details shared”,
+“Works on all Apple devices”
+]
+},
+{
+“id”: “google-pay”,
+“name”: “Google Pay”,
+“type”: “digital_wallet”,
+“icon”: “📱”,
+“popular”: true,
+“processingFee”: 0,
+“description”: “Fast checkout with your Google account”,
+“features”: [
+“Quick payment”,
+“Secure tokenization”,
+“Purchase protection”,
+“Rewards integration”
+]
+},
+{
+“id”: “paypal”,
+“name”: “PayPal”,
+“type”: “digital_wallet”,
+“icon”: “💰”,
+“popular”: false,
+“processingFee”: 0,
+“description”: “Pay with your PayPal account or linked cards”,
+“features”: [
+“Buyer protection”,
+“No card details shared”,
+“Pay with PayPal balance”,
+“Split payments available”
+]
+},
+{
+“id”: “hsa-fsa”,
+“name”: “HSA/FSA”,
+“type”: “health_account”,
+“icon”: “🏥”,
+“popular”: true,
+“processingFee”: 0,
+“description”: “Use pre-tax dollars from health savings accounts”,
+“features”: [
+“Tax-free payment”,
+“Eligible IV therapy services”,
+“Automatic documentation”,
+“Receipt for reimbursement”
+],
+“eligibleServices”: [
+“Medical IV therapy”,
+“Vitamin deficiency treatments”,
+“Medically necessary hydration”,
+“Prescribed wellness treatments”
+]
+},
+{
+“id”: “care-credit”,
+“name”: “CareCredit”,
+“type”: “healthcare_financing”,
+“icon”: “💊”,
+“popular”: false,
+“processingFee”: 0,
+“description”: “Healthcare financing for larger treatments”,
+“features”: [
+“No interest if paid in full in 6-24 months”,
+“Flexible payment plans”,
+“Instant approval available”,
+“Use for multiple visits”
+]
+},
+{
+“id”: “buy-now-pay-later”,
+“name”: “Klarna”,
+“type”: “bnpl”,
+“icon”: “📅”,
+“popular”: false,
+“processingFee”: 0,
+“description”: “Split your purchase into 4 interest-free payments”,
+“features”: [
+“Pay in 4 installments”,
+“No interest charges”,
+“Automatic payment reminders”,
+“Soft credit check only”
+]
+},
+{
+“id”: “cash”,
+“name”: “Cash”,
+“type”: “cash”,
+“icon”: “💵”,
+“popular”: false,
+“processingFee”: 0,
+“description”: “Pay in cash at our location”,
+“features”: [
+“No processing fees”,
+“Immediate payment”,
+“Cash discount available”,
+“Receipt provided”
+],
+“locations”: [“In-person visits only”]
+}
+],
+“security”: {
+“certifications”: [
+{
+“name”: “PCI DSS Level 1”,
+“icon”: “🔒”,
+“description”: “Highest level of payment card industry security compliance”
+},
+{
+“name”: “HIPAA Compliant”,
+“icon”: “🏥”,
+“description”: “Healthcare privacy and security standards met”
+},
+{
+“name”: “SSL/TLS Encryption”,
+“icon”: “🔐”,
+“description”: “Bank-level encryption for all transactions”
+},
+{
+“name”: “SOC 2 Type II”,
+“icon”: “🛡️”,
+“description”: “Audited security controls and data protection”
+}
+],
+“features”: [
+“256-bit SSL encryption”,
+“Tokenized payment data”,
+“Real-time fraud monitoring”,
+“Secure customer data storage”,
+“Regular security audits”,
+“PCI-compliant payment processing”
+],
+“privacy”: {
+“dataRetention”: “Payment data securely stored for 7 years per regulations”,
+“sharing”: “Payment information never shared with third parties”,
+“access”: “Only authorized personnel have access to payment data”,
+“deletion”: “Account deletion removes all payment information”
+}
+},
+“pricing”: {
+“taxRate”: 0.087,
+“taxDescription”: “Arizona state sales tax (8.7%)”,
+“serviceAreas”: [
+{
+“area”: “Phoenix Metro”,
+“deliveryFee”: 0,
+“minimumOrder”: 0
+},
+{
+“area”: “Scottsdale”,
+“deliveryFee”: 25,
+“minimumOrder”: 100
+},
+{
+“area”: “Tempe/Mesa”,
+“deliveryFee”: 35,
+“minimumOrder”: 100
+},
+{
+“area”: “Glendale/Peoria”,
+“deliveryFee”: 45,
+“minimumOrder”: 150
+},
+{
+“area”: “Extended Phoenix Area”,
+“deliveryFee”: 65,
+“minimumOrder”: 200
+}
+],
+“discounts”: [
+{
+“type”: “first_time”,
+“name”: “New Client Special”,
+“amount”: 25,
+“type”: “percentage”,
+“code”: “WELCOME25”,
+“description”: “25% off your first IV therapy session”
+},
+{
+“type”: “referral”,
+“name”: “Refer a Friend”,
+“amount”: 20,
+“type”: “dollar”,
+“description”: “Get $20 credit for each successful referral”
+},
+{
+“type”: “membership”,
+“name”: “Member Discount”,
+“amount”: 15,
+“type”: “percentage”,
+“description”: “Additional 15% off all services for VIP members”
+},
+{
+“type”: “group”,
+“name”: “Group Booking”,
+“amount”: 10,
+“type”: “percentage”,
+“description”: “10% off when booking for 3+ people”
+}
+]
+},
+“checkout”: {
+“steps”: [
+{
+“step”: 1,
+“title”: “Service Selection”,
+“description”: “Choose your IV therapy and add-ons”,
+“required”: true
+},
+{
+“step”: 2,
+“title”: “Appointment Scheduling”,
+“description”: “Select date, time, and location”,
+“required”: true
+},
+{
+“step”: 3,
+“title”: “Personal Information”,
+“description”: “Contact and health information”,
+“required”: true
+},
+{
+“step”: 4,
+“title”: “Payment Details”,
+“description”: “Select payment method and billing info”,
+“required”: true
+},
+{
+“step”: 5,
+“title”: “Confirmation”,
+“description”: “Review and confirm your appointment”,
+“required”: true
+}
+],
+“requiredFields”: [
+“firstName”,
+“lastName”,
+“email”,
+“phone”,
+“dateOfBirth”,
+“emergencyContact”,
+“medicalHistory”,
+“currentMedications”,
+“allergies”
+],
+“optionalFields”: [
+“address”,
+“insurance”,
+“referralSource”,
+“specialRequests”,
+“communicationPreferences”
+]
+},
+“policies”: {
+“cancellation”: {
+“policy”: “Free cancellation up to 24 hours before appointment”,
+“lateCancel”: “50% charge for cancellations within 24 hours”,
+“noShow”: “100% charge for no-shows”,
+“reschedule”: “Free rescheduling with 24+ hours notice”
+},
+“refund”: {
+“policy”: “Full refund for cancellations 24+ hours in advance”,
+“medicalRefund”: “Full refund for medical contraindications”,
+“weatherRefund”: “Full refund for severe weather conditions”,
+“processing”: “Refunds processed within 3-5 business days”
+},
+“privacy”: {
+“dataCollection”: “We collect only necessary information for safe treatment”,
+“dataUse”: “Information used solely for healthcare delivery”,
+“dataSharing”: “Medical information never shared without consent”,
+“dataRetention”: “Records kept per Arizona healthcare regulations”
+}
+},
+“customerSupport”: {
+“channels”: [
+{
+“type”: “phone”,
+“contact”: “(602) 555-DRIP”,
+“hours”: “24/7 for emergencies, 7AM-9PM for general inquiries”,
+“description”: “Speak directly with our customer care team”
+},
+{
+“type”: “email”,
+“contact”: “support@staydripediv.com”,
+“hours”: “24 hour response time”,
+“description”: “Email support for non-urgent questions”
+},
+{
+“type”: “chat”,
+“contact”: “Live chat on website”,
+“hours”: “7AM-11PM MST”,
+“description”: “Instant support through our website chat”
+},
+{
+“type”: “emergency”,
+“contact”: “(602) 555-911”,
+“hours”: “24/7”,
+“description”: “Emergency line for urgent medical concerns”
+}
+]
+},
+“integration”: {
+“paymentProcessors”: [
+{
+“name”: “Stripe”,
+“type”: “primary”,
+“features”: [“Card processing”, “Digital wallets”, “ACH payments”]
+},
+{
+“name”: “Square”,
+“type”: “backup”,
+“features”: [“In-person payments”, “Card reader support”]
+}
+],
+“healthcareIntegrations”: [
+{
+“name”: “HSA Bank”,
+“type”: “hsa_provider”,
+“features”: [“Direct HSA payment”, “Automatic documentation”]
+},
+{
+“name”: “CareCredit”,
+“type”: “financing”,
+“features”: [“Healthcare financing”, “Instant approval”]
+}
+]
+}
+}
