@@ -19,15 +19,18 @@ const props = defineProps({
   >
     {{ description }}
   </p>
-  <div class="grid gap-8 mt-10 mb-20 md:grid-cols-2">
+  <div class="grid gap-8 mt-10 mb-20 md:grid-cols-2 lg:grid-cols-4">
     <div
       v-for="item of items"
-      class="p-8 border-2 border-dashed rounded-sm border-zinc-300 sm:p-12"
+      class="p-8 border-2 border-dashed rounded-lg border-blue-300 sm:p-12 hover:border-blue-500 transition-colors duration-300 hover:bg-blue-50"
     >
-      <h3 class="text-2xl font-semibold text-zinc-800" v-if="item.title">
+      <div class="text-4xl mb-4" v-if="item.icon">
+        {{ item.icon }}
+      </div>
+      <h3 class="text-xl font-semibold text-zinc-800" v-if="item.title">
         {{ item.title }}
       </h3>
-      <p class="mt-2 leading-relaxed text-zinc-500" v-if="item.description">
+      <p class="mt-2 leading-relaxed text-zinc-600" v-if="item.description">
         {{ item.description }}
       </p>
     </div>
