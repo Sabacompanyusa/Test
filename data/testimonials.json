@@ -2,23 +2,23 @@
 “reviewPlatforms”: [
 {
 “platform”: “Google Reviews”,
-“rating”: 4.9,
-“totalReviews”: 847,
+“rating”: 5.0/5.0,
+“totalReviews”: 151,
 “url”: “https://g.page/r/StayDrippedIV/review”,
 “icon”: “🌟”,
 “primary”: true
 },
 {
 “platform”: “Yelp”,
-“rating”: 4.8,
-“totalReviews”: 312,
+“rating”: 5.0,
+“totalReviews”: 49,
 “url”: “https://yelp.com/biz/stay-dripped-iv-phoenix”,
 “icon”: “📱”,
 “primary”: true
 },
 {
 “platform”: “Facebook”,
-“rating”: 4.9,
+“rating”: 5.0,
 “totalReviews”: 623,
 “url”: “https://facebook.com/staydripediv/reviews”,
 “icon”: “📘”,
@@ -26,7 +26,7 @@
 },
 {
 “platform”: “Healthgrades”,
-“rating”: 4.7,
+“rating”: 5.0,
 “totalReviews”: 156,
 “url”: “https://healthgrades.com/stay-dripped-iv”,
 “icon”: “🏥”,
@@ -34,7 +34,7 @@
 }
 ],
 “overallStats”: {
-“averageRating”: 4.85,
+“averageRating”: 5.0,
 “totalReviews”: 1938,
 “fiveStarPercentage”: 87,
 “recommendationRate”: 96,
