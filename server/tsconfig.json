@@ -1,3 +1,48 @@
 {
-  "extends": "../.nuxt/tsconfig.server.json"
+“extends”: “../.nuxt/tsconfig.server.json”,
+“compilerOptions”: {
+“target”: “ES2022”,
+“module”: “ESNext”,
+“moduleResolution”: “bundler”,
+“strict”: true,
+“noEmit”: true,
+“skipLibCheck”: true,
+“allowSyntheticDefaultImports”: true,
+“forceConsistentCasingInFileNames”: true,
+“allowJs”: true,
+“resolveJsonModule”: true,
+“esModuleInterop”: true,
+“sourceMap”: true,
+“types”: [
+“node”
+],
+“lib”: [
+“ES2022”
+],
+“baseUrl”: “.”,
+“paths”: {
+“~/*”: [
+“../*”
+],
+“@/*”: [
+“../*”
+],
+“#imports”: [
+“../.nuxt/imports.d.ts”
+],
+“#app”: [
+“../.nuxt/types/app.d.ts”
+]
+}
+},
+“include”: [
+“../server/**/*”,
+“../.nuxt/types/**/*”
+],
+“exclude”: [
+“../node_modules”,
+“../.nuxt/dist”,
+“../dist”,
+“../.output”
+]
 }
