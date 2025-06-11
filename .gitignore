@@ -1,4 +1,5 @@
 # Nuxt dev/build outputs
+
 .output
 .data
 .nuxt
@@ -7,21 +8,96 @@
 dist
 
 # Node dependencies
+
 node_modules
 
 # Logs
+
 logs
 *.log
 
 # Misc
+
 .DS_Store
 .fleet
 .idea
 
 # Local env files
+
 .env
 .env.*
 !.env.example
 
 # VSC
+
 .history
+
+# Stay Dripped IV specific
+
+coverage/
+.nyc_output
+*.tsbuildinfo
+.eslintcache
+
+# Netlify
+
+.netlify/
+netlify/functions-serve/
+
+# Testing
+
+test-results/
+playwright-report/
+
+# Medical Practice Management Systems
+
+# PracticeQ
+
+practiceq-exports/
+practiceq-backups/
+*.practiceq
+
+# Aesthetic Records
+
+aesthetic-records-data/
+patient-photos/
+before-after/
+*.aestheticrecord
+
+# Qualiphy
+
+qualiphy-cache/
+qualiphy-exports/
+*.qualiphy
+qualiphy-temp/
+
+# Medical/HIPAA sensitive data
+
+patient-data/
+medical-records/
+treatment-records/
+intake-forms/
+consent-forms/
+*.phi
+*.hipaa
+*.backup
+*.csv.backup
+
+# Mac
+
+.DS_Store?
+Icon?
+Thumbs.db
+
+# Windows
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor backups
+
+*~
+*.swp
+*.swo
+*#
