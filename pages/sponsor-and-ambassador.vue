@@ -11,7 +11,6 @@
         </p>
       </section>
 
-```
   <!-- Program Types -->
   <section class="py-16">
     <div class="grid gap-8 md:grid-cols-2">
@@ -273,7 +272,6 @@
     </div>
   </section>
 </Container>
-```
 
   </div>
 </template>
